@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\HealthManaOverlay01.tex,
+bitmapPositionX,96,
+bitmapPositionY,23,

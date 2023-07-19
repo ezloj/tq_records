@@ -1,0 +1,8 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+FileDescription,unused,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,Records\XPack2\Effects\skilleffects\BossSkillFX\Gunnlodspout_fxmesh.dbr,
+particleEffectNames,Records\XPack2\Effects\skilleffects\BossSkillFX\Gunnlod_waterspouterupt_fx.dbr,

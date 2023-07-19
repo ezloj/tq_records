@@ -1,0 +1,5 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,Records\Creature\Devices\ChestTraps\Trap_Fire_Egypt01.dbr,
+skillWarningSound,Records\Sounds\SoundPak\Decorations\SarcophagiTrapSpringPak.dbr,
+timeToLive,5.000000,

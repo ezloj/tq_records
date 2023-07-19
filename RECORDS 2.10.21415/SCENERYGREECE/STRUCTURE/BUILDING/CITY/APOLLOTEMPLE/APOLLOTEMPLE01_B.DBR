@@ -1,0 +1,8 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,ApolloTemple01_B,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+description,ApolloTemple01_B,
+mesh,SceneryGreece\Structure\Building\City\ApolloTemple\ApolloTemple01_B.msh,
+scale,1.000000,

@@ -1,0 +1,5 @@
+templateName,database\Templates\Effect.tpl,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\Nature\Nature'sWrath01.pfx,
+emitterType,Standard,

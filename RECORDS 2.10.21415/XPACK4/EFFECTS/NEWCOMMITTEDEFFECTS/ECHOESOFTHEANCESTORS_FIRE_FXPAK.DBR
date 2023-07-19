@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+FileDescription,(Vince mod added),
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,records\XPack4\Effects\NewCommittedEffects\EchoesOfTheAncestors_fire.dbr,

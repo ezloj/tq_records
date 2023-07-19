@@ -1,0 +1,7 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,35,
+fixedItemName1,Records\Item\Containers\Orient\Bonepile_Legendary_03A.dbr,
+fixedItemName2,Records\Item\Containers\Orient\Bonepile_Legendary_03B.dbr,
+fixedItemWeight1,80,
+fixedItemWeight2,20,

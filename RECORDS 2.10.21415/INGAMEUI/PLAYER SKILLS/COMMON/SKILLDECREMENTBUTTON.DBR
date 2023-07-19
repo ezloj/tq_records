@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\ButtonStatic.tpl,
+bitmapNameDown,InGameUI\Skills\DecrementDown01.tex,
+bitmapNameInFocus,InGameUI\Skills\DecrementOver01.tex,
+bitmapNameUp,InGameUI\Skills\DecrementUp01.tex,
+bitmapPositionX,1,
+bitmapPositionY,25,
+isCircular,0,

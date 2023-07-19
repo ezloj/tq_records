@@ -1,0 +1,7 @@
+templateName,Database\templates\charfxpak.tpl,
+activeSound,records\sounds\soundpak\monstersegypt\sandwraithspawnpak.dbr,
+colorBlue,1.000000,
+colorRed,0.500000,
+meshEffectNames,Records/XPack3/Effects/MeshFX/MagicMaelstrom_mesh.dbr,
+particleEffectNames,Records/XPack3/Effects/MasteryFX/magic_maelstrom_fx.dbr,
+useTintColor,1,

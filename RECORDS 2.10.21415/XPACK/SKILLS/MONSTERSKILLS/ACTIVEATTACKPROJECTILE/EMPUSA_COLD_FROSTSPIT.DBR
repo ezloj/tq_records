@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_AttackProjectileDebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,Lobbed Frost projectile,
+buffSkillName,Records\XPack\Skills\MonsterSkills\ActiveAttackProjectile\Empusa_Cold_FrostSpitBuff.dbr,
+projectileNames,records\xpack\effects\projectiles\empusa_cold_frostspit.dbr,

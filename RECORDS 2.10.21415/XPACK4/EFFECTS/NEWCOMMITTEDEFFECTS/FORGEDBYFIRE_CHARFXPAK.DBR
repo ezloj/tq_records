@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+activeSound,records\sounds\soundpak\decorations\firelooplgpak.dbr,
+particleEffectAttachPoints,R Hand;L Hand,
+particleEffectNames,records\XPack4\Effects\NewCommittedEffects\ForgedByFire_Hands_Fx.dbr;records\XPack4\Effects\NewCommittedEffects\ForgedByFire_Hands_Fx.dbr,

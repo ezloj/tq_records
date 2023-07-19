@@ -1,0 +1,6 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,FireMastery_FlameStrike,
+Class,Skill_BuffRadiusToggled,
+FileDescription,fire enchant + burn dot,
+buffSkillName,Records\XPack\Skills\MonsterSkills\Buffs and Healing\Hero_BurnEnchantmentBuff.dbr,
+instantCast,1,

@@ -1,0 +1,5 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,Poison damage over time,
+particleEffectAttachPoints,HeadEffect,
+particleEffectNames,Records\Effects\Default\DamageIndicationFX\DmgDuration_BleedingFX01.dbr,
+startSound,Records\Sounds\SoundPak\Spells\Hunting\PunctureHitLayerPak.dbr,

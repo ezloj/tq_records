@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,Records\XPack\Effects\Meshes\SkillEffects\BossSkillFX\CharonSpout_FXMesh.dbr,
+particleEffectNames,Records\XPack\Effects\Particles\SkillEffects\BossSkillFX\Charon_WaterSpoutErupt_FX.dbr,

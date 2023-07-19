@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Buff Shrines,
+NuggetArray,Records\InGameUI\TutorialWindow\Page6\P6N1.dbr;Records\InGameUI\TutorialWindow\Page6\P6N2.dbr,

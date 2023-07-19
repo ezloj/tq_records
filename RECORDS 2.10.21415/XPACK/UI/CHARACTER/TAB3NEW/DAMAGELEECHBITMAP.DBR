@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\characterscreen\lifeleachicon01.tex,
+bitmapPositionX,215,
+bitmapPositionY,90,

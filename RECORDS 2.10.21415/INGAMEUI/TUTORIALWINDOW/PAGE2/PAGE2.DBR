@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Talking to People,
+NuggetArray,Records\InGameUI\TutorialWindow\Page2\P2N1.dbr;Records\InGameUI\TutorialWindow\Page2\P2N2.dbr;Records\InGameUI\TutorialWindow\Page2\P2N3.dbr;Records\InGameUI\TutorialWindow\Page2\P2N4.dbr;Records\InGameUI\TutorialWindow\Page2\P2N7.dbr;Records\InGameUI\TutorialWindow\Page2\P2N8.dbr,

@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+activateSound,Records\Sounds\SoundPak\Spells\Storm\ChainLightningtHitPak.dbr,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,0.300000,
+particleEffectNames,Records\Effects\Storm\343_ThunderBallImpact_FX01.dbr,

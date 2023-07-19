@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+meshEffectNames,Records\Effects\Storm\LStrike_MeshLight01.dbr,
+particleEffectNames,Records\Effects\Storm\343_LightningStrike_FX01.dbr,

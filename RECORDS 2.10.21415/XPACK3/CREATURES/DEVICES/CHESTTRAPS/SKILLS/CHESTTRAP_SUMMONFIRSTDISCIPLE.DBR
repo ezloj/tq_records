@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,Records\XPack3\Creatures\Monster\BOSSES\boss_firstdisciple_36.dbr,

@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+activeSound,records\sounds\soundpak\monstersegypt\sandwraithspawnpak.dbr,
+particleEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\SplinterStorm_fx.dbr,
+startSound,records\xpack\sounds\soundpak\bosses\typhonmarkii_bonecageform.dbr,

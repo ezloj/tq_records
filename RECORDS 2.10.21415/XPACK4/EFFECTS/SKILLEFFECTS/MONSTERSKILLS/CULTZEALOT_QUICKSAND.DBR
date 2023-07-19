@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,Used in Quicksand_projectile,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack4\effects\quick_sand.pfx,
+localOrientFix,0,

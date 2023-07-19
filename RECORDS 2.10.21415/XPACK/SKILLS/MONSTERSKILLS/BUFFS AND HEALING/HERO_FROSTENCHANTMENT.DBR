@@ -1,0 +1,6 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,FireMastery_FlameStrike,
+Class,Skill_BuffRadiusToggled,
+FileDescription,mostly for visual appeal,
+buffSkillName,Records\XPack\Skills\MonsterSkills\Buffs and Healing\Hero_FrostEnchantmentBuff.dbr,
+instantCast,1,

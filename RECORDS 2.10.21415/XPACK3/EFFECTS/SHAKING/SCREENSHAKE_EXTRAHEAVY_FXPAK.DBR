@@ -1,0 +1,5 @@
+templateName,database\Templates\FXpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,2.000000,
+cameraShakeDuration,1.000000,
+disturbanceRadius,0.000000,

@@ -1,0 +1,8 @@
+templateName,database\Templates\RolloverLine2.tpl,
+FileDescription,RolloverLine2,
+Line1FormatTag,tagRollFormat06,
+Line1Style,Records\UI\FontStyles\TextStandard_White_Bold.dbr,
+Line1Tag,x4tagCManaCostReduction,
+Line2Style,Records\UI\FontStyles\TextStandard_Grey.dbr,
+Line2Tag,x4tagCR_ManaCostReduction,
+rolloverStyle,Records\UI\RolloverStyles\Standard_Delay.dbr,

@@ -1,0 +1,8 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,Effects\BossEffects\ANM\TyphonsDeath_Vortex01_Activate.anm,
+fadeInTime,0.200000,
+fadeOutTime,2.000000,
+meshName,Effects\BossEffects\TyphonsDeath_Vortex01.msh,
+speed,1.500000,
+sustainTime,3.000000,

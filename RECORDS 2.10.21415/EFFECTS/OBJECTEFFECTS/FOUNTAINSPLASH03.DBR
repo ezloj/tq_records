@@ -1,0 +1,5 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Shrine_Spray02,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\ObjectEffects\FountainSplash03.pfx,

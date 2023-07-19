@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapUIAware,
+bitmapNames,InGameUI\Skills\NatureSkillReallocationBackground01.tex;InGameUI\Controller\Skills\NatureSkillReallocationBackground01.tex,
+bitmapPositionsX,0;0,
+bitmapPositionsY,0;0,

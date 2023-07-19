@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,15% Total Speed + 5% per level for 10 levels.,
+buffSkillName,Records\Skills\Monster Skills\Auras\Character_SpeedAllBuff.dbr,
+instantCast,0,

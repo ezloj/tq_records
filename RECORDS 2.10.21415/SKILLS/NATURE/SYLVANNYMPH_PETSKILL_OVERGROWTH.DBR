@@ -1,0 +1,3 @@
+templateName,database\Templates\Skill_BuffOther.tpl,
+Class,Skill_BuffOther,
+buffSkillName,Records\Skills\Nature\SylvanNymph_PetSkill_OvergrowthBuff.dbr,

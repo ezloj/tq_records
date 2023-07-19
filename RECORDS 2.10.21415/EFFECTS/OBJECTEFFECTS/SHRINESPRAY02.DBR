@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Shrine_Spray02,
+Class,EffectEntity,
+effectFile,Effects\ObjectEffects\ShrineSpray02.pfx,

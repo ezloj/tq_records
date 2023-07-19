@@ -1,0 +1,5 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+effectFile,XPack2\effects\particles\skilleffects\monsterskillfx\zgeneric_novaorange.pfx,
+localOrientFix,1,

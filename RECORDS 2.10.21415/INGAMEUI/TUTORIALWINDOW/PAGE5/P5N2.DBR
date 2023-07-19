@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\UITutoriaNuggetPlus.tpl,
+FileDescription,Text,
+TextStyle,Records\UI\FontStyles\TutorialContent.dbr,
+TextTag,tagTutorialTip05TextA,
+TopSpacing,5,
+keyOperation,DisplayGroundItemPopupsFilterBrokenItems,

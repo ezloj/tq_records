@@ -1,0 +1,5 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Fire_OliveTree01,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\Fire\Fire_OliveTree02.pfx,

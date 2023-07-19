@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\TextString.tpl,
+style,Records\UI\FontStyles\LargeTabText_White.dbr,
+textAlignmentX,Center,
+textAlignmentY,Center,
+textBoxX,16,
+textBoxXSize,311,
+textBoxY,33,
+textBoxYSize,22,

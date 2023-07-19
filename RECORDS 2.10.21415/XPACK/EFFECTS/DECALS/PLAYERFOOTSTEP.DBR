@@ -1,0 +1,6 @@
+templateName,database\Templates\DecalType.tpl,
+Class,DecalType,
+height,0.500000,
+shader,Shaders\Effects\DecalBump.ssh,
+texture,XPack\Effects\Decals\PlayerFootprintBMP.tex,
+width,0.500000,

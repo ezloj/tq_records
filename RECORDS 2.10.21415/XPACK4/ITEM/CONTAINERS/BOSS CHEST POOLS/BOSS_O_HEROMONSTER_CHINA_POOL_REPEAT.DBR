@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+FileDescription,UNUSED - LegendaryLootPool,
+fixedItemChance,100,
+fixedItemName1,records\XPack4\Item\Containers\Boss containers\Boss_O_Heromonster_China_repeat.dbr,

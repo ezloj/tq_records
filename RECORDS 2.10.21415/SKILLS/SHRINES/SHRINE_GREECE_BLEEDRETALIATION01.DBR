@@ -1,0 +1,5 @@
+templateName,database\Templates\FixedItemSkill_Buff.tpl,
+Class,FixedItemSkill_Buff,
+buffSkillName,Records\Skills\Shrines\Shrine_Greece_BleedRetaliationBuff01.dbr,
+skillActiveDuration,60.000000,
+targetRadius,5.000000,

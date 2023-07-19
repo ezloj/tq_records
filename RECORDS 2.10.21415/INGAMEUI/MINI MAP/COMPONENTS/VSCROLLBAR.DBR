@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\Scrollbar.tpl,
+downButton,Records\InGameUI\Mini Map\Components\VScroll_DownButton.dbr,
+positionX,100,
+positionY,100,
+scrollBar,Records\InGameUI\Mini Map\Components\VScroll_ScrollSquare.dbr,
+scrollTrack,Records\InGameUI\Mini Map\Components\VScroll_Scrolltrack.dbr,
+upButton,Records\InGameUI\Mini Map\Components\VScroll_UpButton.dbr,

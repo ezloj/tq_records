@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Skill_IceShard02,
+Class,EffectEntity,
+effectFile,Effects\Cold\Skill_IceShard02.pfx,

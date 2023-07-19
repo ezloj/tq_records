@@ -1,0 +1,6 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\XPack\Item\Containers\BossChest03_Cerberus_02.dbr,
+fixedItemWeight1,100,
+fixedItemWeight2,0,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,NatureMastery_Renewal,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,Records\Skills\Nature\SylvanNymph_PetSkill_TranquilitytBuff.dbr,

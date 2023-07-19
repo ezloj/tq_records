@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,+% Movement Speed,
+buffSkillName,Records\Skills\Hunting\TrailBlazingBuff.dbr,

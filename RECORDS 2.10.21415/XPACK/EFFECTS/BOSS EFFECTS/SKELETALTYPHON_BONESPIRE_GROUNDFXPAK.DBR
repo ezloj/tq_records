@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+activateSound,Records\XPack\Sounds\SoundPak\Bosses\TyphonMarkII_EarthRupture.dbr,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,records\xpack\effects\meshes\skilleffects\bossskillfx\typhonskel_bonespire_mesh.dbr,

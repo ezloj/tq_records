@@ -1,0 +1,5 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,for buff,
+colorBlue,0.500000,
+meshEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\mimerdrone_lgtsnare_netmesh.dbr,
+particleEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\mimerdrone_lgtsnare_fx.dbr,

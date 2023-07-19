@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\ButtonStatic.tpl,
+bitmapNameDown,InGameUI\Skills\IncrementDown01.tex,
+bitmapNameInFocus,InGameUI\Skills\IncrementOver01.tex,
+bitmapNameUp,InGameUI\Skills\IncrementUp01.tex,
+bitmapPositionX,1,
+bitmapPositionY,1,
+isCircular,0,

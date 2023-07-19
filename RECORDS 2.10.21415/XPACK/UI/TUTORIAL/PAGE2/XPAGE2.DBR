@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Transfer Window,
+NuggetArray,records\xpack\ui\tutorial\page2\p2n1.dbr;records\xpack\ui\tutorial\page2\p2n2.dbr;records\xpack\ui\tutorial\page2\p2n3.dbr;records\xpack\ui\tutorial\page2\p2n4.dbr,

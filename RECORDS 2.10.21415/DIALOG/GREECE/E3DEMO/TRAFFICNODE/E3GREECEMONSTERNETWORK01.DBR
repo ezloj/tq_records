@@ -1,0 +1,7 @@
+templateName,database\Templates\BoundingVolumeNpcNetwork.tpl,
+Class,BoundingVolumeNpcNetwork,
+actorHeight,0.000000,
+actorRadius,0.000000,
+defaultConversationPak,Records\Dialog\Greece\E3Demo\TrafficNode\E3GreeceConversationPak01.dbr,
+radius,10.000000,
+scale,1.000000,

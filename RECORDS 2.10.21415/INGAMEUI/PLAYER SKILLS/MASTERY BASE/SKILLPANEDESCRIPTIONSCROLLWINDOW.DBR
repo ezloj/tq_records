@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\ScrollableWindow.tpl,
+FileDescription,ScrollableWindow,
+height,185,
+positionX,724,
+positionY,245,
+verticalScrollbar,Records\InGameUI\InGameUI\NpcDialogWindow_VScroll.dbr,
+width,162,

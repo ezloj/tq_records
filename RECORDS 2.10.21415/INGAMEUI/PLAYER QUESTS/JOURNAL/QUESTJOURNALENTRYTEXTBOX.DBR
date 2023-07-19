@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\TextBoxMeasureable.tpl,
+fontStyle,Records\UI\FontStyles\TextSmall_GreyArial.dbr,
+positionX,3,
+positionY,3,
+textBoxHeight,-1,
+textBoxWidth,263,

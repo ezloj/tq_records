@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+FileDescription,UNUSED - LegendaryLootPool,
+fixedItemChance,100,
+fixedItemName1,records\xpack4\item\containers\boss containers\boss_c_mogwaitaskmaster_repeat.dbr,

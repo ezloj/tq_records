@@ -1,0 +1,5 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Skill_Envenomed_Aura01,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Records\Effects\MonsterFX\Aura_LightningDamage_FX01.dbr,

@@ -1,0 +1,5 @@
+templateName,Database\templates\charfxpak.tpl,
+colorGreen,0.500000,
+colorRed,0.500000,
+particleEffectNames,records\xpack2\effects\objecteffects\scrolls\sunsblessing_fx.dbr,
+useTintColor,1,

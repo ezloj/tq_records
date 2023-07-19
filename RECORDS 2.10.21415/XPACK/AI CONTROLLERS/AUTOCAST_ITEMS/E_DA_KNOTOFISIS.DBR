@@ -1,0 +1,6 @@
+templateName,database\Templates\SkillAutoCastController.tpl,
+FileDescription,100% chance to cast at self on low health,
+autoTargetRadius,10.000000,
+chanceToRun,100,
+targetType,Self,
+triggerType,LowHealth,

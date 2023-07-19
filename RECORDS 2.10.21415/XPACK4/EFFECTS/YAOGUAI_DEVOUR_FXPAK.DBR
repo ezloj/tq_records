@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,Used in Yaoguai_Devour skill,
+particleEffectAttachPoints,Target,
+particleEffectNames,records\xpack4\effects\yaoguai_devour_aura.dbr,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Fire_Camp_Medium01,
+Class,EffectEntity,
+effectFile,Effects\Fire\Fire_Camp_Medium01.pfx,

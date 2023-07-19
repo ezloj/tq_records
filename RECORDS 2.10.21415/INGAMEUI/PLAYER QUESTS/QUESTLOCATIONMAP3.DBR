@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\QuestMap.tpl,
+mapBitmap,Records\InGameUI\Player Quests\QuestLocationMapBitmap3.dbr,
+mapMarkers,Records\InGameUI\Player Quests\Map Markers\OrientQ11.dbr;Records\InGameUI\Player Quests\Map Markers\OrientQ12.dbr;Records\InGameUI\Player Quests\Map Markers\OrientQ13.dbr;Records\InGameUI\Player Quests\Map Markers\OrientQ14.dbr;Records\InGameUI\Player Quests\Map Markers\OrientQ15.dbr,
+positionX,15,
+positionY,79,

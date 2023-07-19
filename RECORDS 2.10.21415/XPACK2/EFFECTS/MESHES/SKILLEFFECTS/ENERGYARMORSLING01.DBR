@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,0.300000,
+disturbanceRadius,2.000000,
+meshEffectNames,records\xpack2\effects\meshes\skilleffects\golem_crystalform_fxmesh.dbr,

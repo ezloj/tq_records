@@ -1,0 +1,8 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,Records\Skills\Stealth\Pet\BoltTrap_01.dbr,
+skillActivateFxPak,Records\Effects\Nature\Refresh_FXPak01.dbr,
+skillActivateSound,Records\Sounds\SoundPak\Decorations\FixedItem\WdChestMonsterOpenPak.dbr,
+skillWarningFxPak,Records\Effects\Nature\Refresh_FXPak01.dbr,
+skillWarningSound,Records\Sounds\SoundPak\Decorations\FixedItem\WdChestMonsterOpenPak.dbr,
+timeToLive,0.000000,

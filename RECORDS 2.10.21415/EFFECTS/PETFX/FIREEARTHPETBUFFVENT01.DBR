@@ -1,0 +1,3 @@
+templateName,database\Templates\Effect.tpl,
+Class,EffectEntity,
+effectFile,Effects\PetFX\Fire_EarthPet_Buff_Vent01.pfx,

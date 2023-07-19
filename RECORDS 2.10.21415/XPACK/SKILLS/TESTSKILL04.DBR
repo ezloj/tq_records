@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_AttackProjectileDebuf.tpl,
+ActorName,Typhon_BonetrapGrenade,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,Records\XPack\Skills\testskill05_BonetrapBuff.dbr,
+projectileNames,records\xpack\effects\testeffect02_projectile.dbr,

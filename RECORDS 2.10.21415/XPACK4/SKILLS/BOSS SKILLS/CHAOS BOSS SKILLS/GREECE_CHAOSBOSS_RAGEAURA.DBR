@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,LightningMastery_StoreStrike,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records\XPack4\Skills\Boss Skills\Chaos Boss Skills\Greece_ChaosBoss_RageAura_buff.dbr,
+instantCast,0,

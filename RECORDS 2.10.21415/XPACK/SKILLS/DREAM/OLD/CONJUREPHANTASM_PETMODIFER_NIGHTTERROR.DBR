@@ -1,0 +1,3 @@
+templateName,database\Templates\SkillSecondary_PetModifier.tpl,
+Class,SkillSecondary_PetModifier,
+petSkillName,Records\XPack\Skills\Dream\ConjurePhantasm_PetSkill_NightTerror.dbr,

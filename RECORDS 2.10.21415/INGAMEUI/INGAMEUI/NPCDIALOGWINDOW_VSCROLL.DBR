@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\Scrollbar.tpl,
+downButton,Records\InGameUI\InGameUI\NpcDialogWindow_VScrollDwnBtn.dbr,
+positionX,0,
+positionY,0,
+scrollBar,Records\InGameUI\InGameUI\NpcDialogWindow_VScrollSquare.dbr,
+scrollTrack,Records\InGameUI\InGameUI\NpcDialogWindow_VScrollTrack.dbr,
+upButton,Records\InGameUI\InGameUI\NpcDialogWindow_VScrollUpBtn.dbr,

@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,0.300000,
+disturbanceRadius,5.000000,
+meshEffectNames,records\xpack3\effects\meshfx\tartarus_skill_firewalk_mesh.dbr,
+particleEffectNames,Records/XPack3/Effects/MonsterFX/tartarus_firewalk_01_fx.dbr,

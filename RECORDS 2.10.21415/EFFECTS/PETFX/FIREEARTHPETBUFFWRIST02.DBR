@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Fire_EarthPet_Buff_Wrist02,
+Class,EffectEntity,
+effectFile,Effects\PetFX\Fire_EarthPet_Buff_Wrist02.pfx,

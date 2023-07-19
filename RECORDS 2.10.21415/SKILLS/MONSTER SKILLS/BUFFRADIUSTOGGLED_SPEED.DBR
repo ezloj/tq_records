@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Total speed 5% / lvl,
+buffSkillName,Records\Skills\Monster Skills\BuffRadiusToggled_SpeedBuff.dbr,
+instantCast,0,

@@ -1,0 +1,5 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Gold_Skeleton_Orb01,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\BossEffects\Alastor_CircleOfDeath.pfx,

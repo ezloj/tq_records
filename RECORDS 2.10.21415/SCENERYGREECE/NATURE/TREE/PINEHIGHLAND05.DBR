@@ -1,0 +1,8 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,PineHighland05,
+Class,Tile,
+actorHeight,1.000000,
+actorRadius,1.000000,
+allowTransparency,1,
+mesh,SceneryGreece\Nature\Tree\TreePineHighland05.msh,
+scale,1.000000,

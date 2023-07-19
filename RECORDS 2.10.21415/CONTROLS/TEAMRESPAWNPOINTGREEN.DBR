@@ -1,0 +1,4 @@
+templateName,database\Templates\TeamRespawnPoint.tpl,
+Class,TeamRespawnPoint,
+DisplayName,Team Respawn (Green),
+Team,Green,

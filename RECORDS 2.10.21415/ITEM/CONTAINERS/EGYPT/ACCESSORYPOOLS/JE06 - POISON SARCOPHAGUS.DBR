@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Quests\QuestObjects\JE06_PoisonSarcophagusObject.dbr,
+fixedItemWeight1,100,

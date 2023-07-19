@@ -1,0 +1,6 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,Effects\Storm\LightningStrike\ANM\LStrikeRockDebris_Explode.anm,
+loop,0,
+meshName,Effects\Storm\LightningStrike\LStrikeRockDebris01.msh,
+speed,1.000000,

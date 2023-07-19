@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\QuestMap.tpl,
+mapBitmap,records\xpack3\quests\questlog ui\questlocationmapbitmap6.dbr,
+mapMarkers,Records\XPack3\Quests\QuestLog UI\NorthQ1.dbr;Records\XPack3\Quests\QuestLog UI\NorthQ2.dbr;Records\XPack3\Quests\QuestLog UI\NorthQ3.dbr;Records\XPack3\Quests\QuestLog UI\NorthQ4.dbr;Records\XPack3\Quests\QuestLog UI\NorthQ5.dbr;Records\XPack3\Quests\QuestLog UI\NorthQ6.dbr;Records\XPack3\Quests\QuestLog UI\NorthQ7.dbr,
+positionX,15,
+positionY,79,

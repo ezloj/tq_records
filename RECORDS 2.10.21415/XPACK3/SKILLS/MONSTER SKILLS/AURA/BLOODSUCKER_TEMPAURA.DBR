@@ -1,0 +1,5 @@
+templateName,Database\templates\skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,15-30 lifesteal / lvl,
+buffSkillName,records\xpack3\skills\monster skills\aura\bloodsucker_tempaura_buff.dbr,
+instantCast,0,

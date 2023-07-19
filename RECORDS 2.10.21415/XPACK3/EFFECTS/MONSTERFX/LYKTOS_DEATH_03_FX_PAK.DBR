@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,1.500000,
+disturbanceRadius,0.000000,
+particleEffectNames,Records/XPack3/Effects/MonsterFX/lyktos_death_03_fx.dbr,

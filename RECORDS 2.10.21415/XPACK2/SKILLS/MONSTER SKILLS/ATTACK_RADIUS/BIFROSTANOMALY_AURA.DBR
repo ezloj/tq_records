@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,Records\XPack\Skills\BossSkills\Hades2_ShadowCloud_AuraBuff.dbr,
+instantCast,1,

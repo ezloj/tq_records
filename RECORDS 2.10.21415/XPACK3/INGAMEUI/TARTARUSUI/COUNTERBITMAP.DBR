@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+ActorName,a,
+FileDescription,BitmapSingle,
+bitmapName,XPack3\ingameui\tartarusui\counter_frame.tex,
+bitmapPositionX,30,
+bitmapPositionY,30,

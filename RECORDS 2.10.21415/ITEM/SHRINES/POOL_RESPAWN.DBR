@@ -1,0 +1,3 @@
+templateName,database\Templates\ProxyPool.tpl,
+spawnMax,1,
+spawnMin,0,

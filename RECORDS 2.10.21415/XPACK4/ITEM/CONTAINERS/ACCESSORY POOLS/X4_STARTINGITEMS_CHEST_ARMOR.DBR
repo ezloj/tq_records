@@ -1,0 +1,6 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+FileDescription,Used to be put into proxy,
+fixedItemChance,100,
+fixedItemName1,records\XPack4\Item\Containers\x4_StartingItems_Container_Armor.dbr,
+fixedItemWeight1,100,

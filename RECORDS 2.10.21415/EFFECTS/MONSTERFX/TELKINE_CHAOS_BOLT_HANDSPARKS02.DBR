@@ -1,0 +1,3 @@
+templateName,database\Templates\Effect.tpl,
+Class,EffectEntity,
+effectFile,Effects\MonsterFX\Telkine_Chaos_Bolt_HandSparks02.pfx,

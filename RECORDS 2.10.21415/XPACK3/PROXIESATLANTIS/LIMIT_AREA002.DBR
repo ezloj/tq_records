@@ -1,0 +1,8 @@
+templateName,database\Templates\ProxyLimits.tpl,
+FileDescription,~Rhodes,
+maxPlayerLevelEquationEpic,58*1,
+maxPlayerLevelEquationLegendary,80*1,
+maxPlayerLevelEquationNormal,33*1,
+minPlayerLevelEquationEpic,48*1,
+minPlayerLevelEquationLegendary,72*1,
+minPlayerLevelEquationNormal,28*1,

@@ -1,0 +1,3 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+meshEffectNames,Records\Effects\MonsterFX\IceSprite_SpawnCicleFXMesh.dbr,

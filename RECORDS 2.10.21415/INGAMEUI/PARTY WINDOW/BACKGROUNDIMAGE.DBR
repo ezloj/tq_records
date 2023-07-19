@@ -1,0 +1,5 @@
+templateName,Custommaps\Art_TQX3\database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapSingleUIAware,
+bitmapNames,InGameUI\party\partywindow01.tex;InGameUI\Controller\party\partywindow01.tex,
+bitmapPositionsX,0;0,
+bitmapPositionsY,0;0,

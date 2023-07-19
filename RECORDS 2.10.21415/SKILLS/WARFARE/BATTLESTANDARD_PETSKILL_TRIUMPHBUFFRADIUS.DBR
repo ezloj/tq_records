@@ -1,0 +1,5 @@
+templateName,Database\Templates\Skill_BuffRadius.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_BuffRadius,
+buffSkillName,records\skills\warfare\battlestandard_petskill_triumph.dbr,
+instantCast,1,

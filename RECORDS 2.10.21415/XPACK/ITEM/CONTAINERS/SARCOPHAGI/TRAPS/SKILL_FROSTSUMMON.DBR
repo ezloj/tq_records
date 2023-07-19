@@ -1,0 +1,5 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,Records\XPack\Item\Containers\Sarcophagi\Traps\Trap_Frost.dbr,
+skillWarningSound,Records\Sounds\SoundPak\Decorations\SarcophagiTrapSpringPak.dbr,
+timeToLive,5.000000,

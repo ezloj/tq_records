@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\Scrollbar.tpl,
+downButton,Records\InGameUI\Player Quests\Window Elements\VScroll_DownButton.dbr,
+positionX,0,
+positionY,0,
+scrollBar,Records\InGameUI\Player Quests\Window Elements\VScroll_ScrollSquare.dbr,
+scrollTrack,Records\InGameUI\Player Quests\Window Elements\VScroll_Scrolltrack.dbr,
+upButton,Records\InGameUI\Player Quests\Window Elements\VScroll_UpButton.dbr,

@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_AttackProjectileDebuf.tpl,
+ActorName,HuntingMastery_Ensnare,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,records\skills\monster skills\attack_projectile\monster_ensnarebuff.dbr,
+projectileNames,Records\Effects\Hunting\NetProjectile.dbr,

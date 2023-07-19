@@ -1,0 +1,6 @@
+templateName,database\Templates\EventMusicPak.tpl,
+AmbientFadeTime,2.000000,
+Class,EventMusicSession,
+delayTime,10,
+eventMusicName,Music\XPack\Ambient\Hades UG\mus_amb_hadesug_03.mp3,
+volume,0.850000,

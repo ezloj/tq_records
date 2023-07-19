@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\UITutoriaNugget.tpl,
+FileDescription,Text,
+TextCentering,1,
+TextStyle,Records\UI\FontStyles\DescItemNameLegendary.dbr,
+TextTag,tagTutorialTip05TextH,
+TopSpacing,1,

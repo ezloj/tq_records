@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,2.000000,
+meshEffectNames,Records/XPack3/Effects/MonsterFX/AncientOne_hide_mesh.dbr,

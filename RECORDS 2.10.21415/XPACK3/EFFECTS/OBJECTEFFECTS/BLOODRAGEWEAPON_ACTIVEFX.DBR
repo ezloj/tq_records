@@ -1,0 +1,6 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,1,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack3\effects\objecteffects\bloodrageweapon_active_fx.pfx,
+localOrientFix,0,

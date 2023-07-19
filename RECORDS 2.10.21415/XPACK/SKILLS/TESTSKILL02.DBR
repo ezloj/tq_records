@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,Records\Skills\Earth\FireEnchantmentBuff.dbr,
+instantCast,0,

@@ -1,0 +1,8 @@
+templateName,database\Templates\CharFxPak.tpl,
+activeSound,records\sounds\soundpak\monstersegypt\sandwraithspawnpak.dbr,
+colorBlue,1.000000,
+colorGreen,0.500000,
+colorRed,0.500000,
+particleEffectNames,Records\XPack2\Effects\skilleffects\BossSkillFX\KornwyfTornado01.dbr,
+startSound,records\sounds\soundpak\monstersegypt\sandwraithspawnpak.dbr,
+useTintColor,1,

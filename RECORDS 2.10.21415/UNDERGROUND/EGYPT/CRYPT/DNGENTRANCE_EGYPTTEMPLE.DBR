@@ -1,0 +1,6 @@
+templateName,database\Templates\Tile.tpl,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+mesh,Underground\ConstructedTiles\EgyptTemple\DungeonEnt_Egypt_Temple.msh,
+scale,1.000000,

@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Remade!,
+buffSkillName,Records\XPack\Skills\MonsterSkills\Summoning\Pets\CripplingWard_Skill_Cripple_Buff.dbr,
+instantCast,1,

@@ -1,0 +1,6 @@
+templateName,database\Templates\BoundingVolumeNpcNetwork.tpl,
+Class,BoundingVolumeNpcNetwork,
+actorHeight,0.000000,
+actorRadius,0.000000,
+radius,60.000000,
+scale,1.000000,

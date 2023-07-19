@@ -1,0 +1,7 @@
+templateName,database\Templates\Tile.tpl,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+allowTransparency,0,
+mesh,SandBox\msheidow\Babylon_PortalGateBase.msh,
+scale,1.000000,

@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\QuestMap.tpl,
+mapBitmap,Records\InGameUI\Player Quests\QuestLocationMapBitmap1.dbr,
+mapMarkers,Records\InGameUI\Player Quests\Map Markers\GreeceQ1.dbr;Records\InGameUI\Player Quests\Map Markers\GreeceQ2.dbr;Records\InGameUI\Player Quests\Map Markers\GreeceQ3.dbr;Records\InGameUI\Player Quests\Map Markers\GreeceQ4.dbr;Records\InGameUI\Player Quests\Map Markers\GreeceQ5.dbr;Records\InGameUI\Player Quests\Map Markers\GreeceQ6.dbr;Records\InGameUI\Player Quests\Map Markers\GreeceQ7.dbr;Records\InGameUI\Player Quests\Map Markers\GreeceQ8.dbr,
+positionX,15,
+positionY,79,

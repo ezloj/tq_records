@@ -1,0 +1,3 @@
+templateName,database\Templates\Skill_AttackBuffRadius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records\xpack2\skills\monster skills\buff_other\darkelf_cursebuff.dbr,

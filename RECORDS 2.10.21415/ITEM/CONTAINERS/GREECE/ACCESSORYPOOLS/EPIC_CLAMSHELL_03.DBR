@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Item\Containers\Greece\Clamshell_Epic_03A.dbr,
+fixedItemWeight1,100,

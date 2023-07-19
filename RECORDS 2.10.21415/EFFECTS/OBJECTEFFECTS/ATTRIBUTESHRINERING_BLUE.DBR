@@ -1,0 +1,6 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,Effects\ObjectEffects\ANM\Shrine_RingActivate.anm,
+disturbanceRadius,2.000000,
+meshName,Effects\ObjectEffects\AttributeShrineRing_Blue01.msh,
+speed,1.000000,

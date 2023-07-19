@@ -1,0 +1,3 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+particleEffectNames,Records\Effects\Default\343_LevelUp_FX01.dbr,

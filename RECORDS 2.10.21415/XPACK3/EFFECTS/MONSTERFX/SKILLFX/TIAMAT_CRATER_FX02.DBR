@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack3\effects\monsterfx\skillfx\tiamat_crater_fx02.pfx,
+emitterType,Standard,
+localOrientFix,0,

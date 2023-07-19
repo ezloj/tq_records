@@ -1,0 +1,5 @@
+templateName,Database\templates\skill_buffother.tpl,
+Class,Skill_BuffOther,
+FileDescription,X4: Radius,
+buffSkillName,records\xpack3\skills\boss skills\tartarus_heal_buff.dbr,
+targetCaster,0,

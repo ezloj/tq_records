@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Towns Cities and Camps,
+NuggetArray,Records\InGameUI\TutorialWindow\Page8\P8N1.dbr;Records\InGameUI\TutorialWindow\Page8\P8N2.dbr,

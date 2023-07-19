@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,#lowered 38,
+bitmapName,InGameUI\CharacterScreen\Resistances\LifeIcon01.tex,
+bitmapPositionX,165,
+bitmapPositionY,90,

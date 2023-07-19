@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\TextStaticString.tpl,
+style,Records\UI\FontStyles\WindowTitle.dbr,
+textAlignmentX,Center,
+textAlignmentY,Center,
+textBoxX,82,
+textBoxXSize,163,
+textBoxY,2,
+textBoxYSize,14,

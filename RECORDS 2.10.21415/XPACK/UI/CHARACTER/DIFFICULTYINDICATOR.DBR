@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,XPack\UI\Character\NormalDifficulty.tex,
+bitmapPositionX,600,
+bitmapPositionY,25,

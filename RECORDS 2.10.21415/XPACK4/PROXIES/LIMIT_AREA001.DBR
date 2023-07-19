@@ -1,0 +1,8 @@
+templateName,database\Templates\ProxyLimits.tpl,
+FileDescription,From Ragnarok - must change,
+maxPlayerLevelEquationEpic,63*1,
+maxPlayerLevelEquationLegendary,85*1,
+maxPlayerLevelEquationNormal,38*1,
+minPlayerLevelEquationEpic,53*1,
+minPlayerLevelEquationLegendary,70*1,
+minPlayerLevelEquationNormal,33*1,

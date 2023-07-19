@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_BuffRadius,
+buffSkillName,records\XPack4\Skills\Scroll Skills\ScrollSkill_AncestralFavor_Buff.dbr,
+instantCast,0,

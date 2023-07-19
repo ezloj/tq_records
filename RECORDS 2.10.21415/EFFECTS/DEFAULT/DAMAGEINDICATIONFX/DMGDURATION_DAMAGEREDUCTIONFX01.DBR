@@ -1,0 +1,6 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,
+Class,EffectEntity,
+boneList,R Hand;L Hand,
+effectFile,Effects\Default\DamageIndicationFX\DmgDuration_DamageReductionFX01.pfx,
+emitterType,BoneList,

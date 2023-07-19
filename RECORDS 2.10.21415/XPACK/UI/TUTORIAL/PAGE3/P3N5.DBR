@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\UITutoriaNugget.tpl,
+FileDescription,Subtitle,
+TextCentering,0,
+TextStyle,Records\UI\FontStyles\TutorialSubtitle.dbr,
+TextTag,xtagTutorialTip03SubtitleB,
+TopSpacing,5,

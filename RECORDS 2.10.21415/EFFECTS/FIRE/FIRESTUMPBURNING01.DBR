@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Fire_Stump_Burning01,
+Class,EffectEntity,
+effectFile,Effects\Fire\Fire_Stump_Burning01.pfx,

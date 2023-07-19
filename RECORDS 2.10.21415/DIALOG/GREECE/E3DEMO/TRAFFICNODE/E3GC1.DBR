@@ -1,0 +1,8 @@
+templateName,database\Templates\NpcTrafficNode.tpl,
+Class,NpcTrafficNode,
+actorHeight,0.000000,
+actorRadius,0.000000,
+canBeFinalDestination,1,
+nextTrafficNode,Records\Dialog\Greece\E3Demo\TrafficNode\E3GC2.dbr,
+radius,3.000000,
+scale,1.000000,

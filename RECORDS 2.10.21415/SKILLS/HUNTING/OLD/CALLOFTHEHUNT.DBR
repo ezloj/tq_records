@@ -1,0 +1,3 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,Records\Skills\Hunting\CalloftheHuntBuff.dbr,

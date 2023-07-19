@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,Records\XPack\Skills\Scroll Skills\01_UnbreakableAllianceBuff.dbr,
+instantCast,0,

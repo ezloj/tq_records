@@ -1,0 +1,8 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,MainRetainer_CornerInterior01,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+description,MainRetainer_CornerInterior01,
+mesh,SceneryGreece\Structure\Building\City\Acropolis Wall\MainRetainer_CornerInterior01.msh,
+scale,1.000000,

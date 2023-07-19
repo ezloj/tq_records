@@ -1,0 +1,6 @@
+templateName,Database\templates\eventmusicpak.tpl,
+AmbientFadeTime,2.000000,
+Class,EventMusicSession,
+delayTime,10,
+eventMusicName,XPack2\music\themes\mus_credits.mp3,
+volume,1.000000,

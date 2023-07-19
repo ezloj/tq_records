@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_AttackBuffRadius.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_AttackBuffRadius,
+buffSkillName,Records\Skills\Nature\GraspingEarthBuff.dbr,

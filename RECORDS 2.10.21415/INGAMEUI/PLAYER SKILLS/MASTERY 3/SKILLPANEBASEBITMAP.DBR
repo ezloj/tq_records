@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapUIAware,
+bitmapNames,InGameUI\Skills\EarthSkillBackground01.tex;InGameUI\Controller\Skills\EarthSkillBackground01.tex,
+bitmapPositionsX,0;0,
+bitmapPositionsY,0;0,

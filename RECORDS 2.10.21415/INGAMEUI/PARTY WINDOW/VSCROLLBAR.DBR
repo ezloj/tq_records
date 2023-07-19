@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\Scrollbar.tpl,
+downButton,Records\InGameUI\Party Window\VScroll_DownButton.dbr,
+positionX,100,
+positionY,100,
+scrollBar,Records\InGameUI\Party Window\VScroll_ScrollSquare.dbr,
+scrollTrack,Records\InGameUI\Party Window\VScroll_Scrolltrack.dbr,
+upButton,Records\InGameUI\Party Window\VScroll_UpButton.dbr,

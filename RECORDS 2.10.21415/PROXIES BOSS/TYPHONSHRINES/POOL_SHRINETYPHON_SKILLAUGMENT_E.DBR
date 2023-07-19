@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Proxies Boss\TyphonShrines\ShrineTyphon_SkillAugment_E.dbr,
+fixedItemWeight1,100,

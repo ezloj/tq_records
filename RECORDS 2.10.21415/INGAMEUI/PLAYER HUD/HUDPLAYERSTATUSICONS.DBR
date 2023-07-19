@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\HudPlayerStatusIcons.tpl,
+activeHudAreaSizeX,290,
+activeHudAreaSizeY,150,
+activeHudAreaX,90,
+activeHudAreaY,50,
+iconHorizSpace,6,

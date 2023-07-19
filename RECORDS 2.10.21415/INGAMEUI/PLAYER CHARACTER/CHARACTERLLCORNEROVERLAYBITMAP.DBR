@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\CharacterScreen\CharacterEndCapsLeft01.tex,
+bitmapPositionX,1,
+bitmapPositionY,609,

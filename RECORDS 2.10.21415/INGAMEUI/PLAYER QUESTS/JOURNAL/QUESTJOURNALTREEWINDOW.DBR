@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\QuestJournalListWindow.tpl,
+defaultMessageBox,Records\InGameUI\Player Quests\Journal\QuestJournalTreeDefaultMessage.dbr,
+height,278,
+journalTextTree,Records\InGameUI\Player Quests\Journal\QuestJournalTextTree.dbr,
+positionX,46,
+positionY,97,
+verticalScrollbar,Records\InGameUI\Player Quests\Window Elements\VScrollbar.dbr,
+width,276,

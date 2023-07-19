@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+activeSound,records\xpack\sounds\soundpak\monsters\ascacophus_attackstretch.dbr,
+particleEffectNames,records\effects\defense\quickrecovery_ambientfx01.dbr,
+startSound,records\xpack\sounds\soundpak\monsters\ascacophus_vox.dbr,

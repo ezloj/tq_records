@@ -1,0 +1,6 @@
+templateName,database\Templates\FXpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,30.000000,
+particleEffectNames,Records\XPack\Effects\Particles\Environment\HPWall_Explosion01FX.dbr,

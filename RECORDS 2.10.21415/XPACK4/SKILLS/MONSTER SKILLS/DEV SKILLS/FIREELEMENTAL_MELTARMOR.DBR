@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_AttackBuff.tpl,
+ActorName,DefensiveMastery_ArmorTraining,
+Class,Skill_AttackBuff,
+buffSkillName,records\XPack4\Skills\Monster Skills\Dev Skills\FireElemental_MeltArmorBuff.dbr,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Skill_FlameStrike_Aura01,
+Class,EffectEntity,
+effectFile,Effects\Fire\Skill_FlameStrike_Aura01.pfx,

@@ -1,0 +1,6 @@
+templateName,database\Templates\Tile.tpl,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+mesh,SandBox\bparnell\rocks\rock21.msh,
+scale,1.000000,

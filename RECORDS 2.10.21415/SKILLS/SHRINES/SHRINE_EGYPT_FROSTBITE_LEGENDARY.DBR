@@ -1,0 +1,5 @@
+templateName,database\Templates\FixedItemSkill_Buff.tpl,
+Class,FixedItemSkill_Buff,
+buffSkillName,Records\Skills\Shrines\Shrine_Egypt_FrostbiteBuff_Legendary.dbr,
+skillActiveDuration,60.000000,
+targetRadius,5.000000,

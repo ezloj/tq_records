@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemLevelEquation.tpl,
+FileDescription,Normal Orient - 8 tables,
+levelEquation,((maxPlayerLevel*1)-19)/1.875,

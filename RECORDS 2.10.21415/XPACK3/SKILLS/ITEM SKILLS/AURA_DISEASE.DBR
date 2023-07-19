@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,Records\Skills\Monster Skills\Auras\DesertWitch_DiseaseBuff.dbr,
+instantCast,1,

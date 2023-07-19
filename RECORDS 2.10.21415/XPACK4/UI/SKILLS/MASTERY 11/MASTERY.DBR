@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\SkillButton.tpl,
+FileDescription,Neidan Mastery,
+bitmapPositionX,29,
+bitmapPositionY,459,
+isCircular,1,
+skillName,records\XPack4\Skills\Neidan\neidanmastery.dbr,
+soundNameDown,Records\Sounds\SoundPak\UI\AddSkillPointPak.dbr,

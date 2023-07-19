@@ -1,0 +1,6 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+FileDescription,spawn,
+monsterName,records\xpack2\item\traps\chesttraps\trap_nova_gold3.dbr,
+skillWarningSound,Records\Sounds\SoundPak\Decorations\SarcophagiTrapSpringPak.dbr,
+timeToLive,5.000000,

@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\ButtonStatic.tpl,
+bitmapNameDown,InGameUI\Map\DetailZoomOutDown01.tex,
+bitmapNameInFocus,InGameUI\Map\DetailZoomOutUp01.tex,
+bitmapNameUp,InGameUI\Map\DetailZoomOutDown01.tex,
+bitmapPositionX,686,
+bitmapPositionY,118,
+isCircular,0,
+soundNameDown,Records\Sounds\SoundPak\UI\GenericClickTinyPak.dbr,

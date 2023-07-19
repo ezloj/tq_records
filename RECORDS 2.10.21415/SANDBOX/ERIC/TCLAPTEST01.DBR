@@ -1,0 +1,3 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+particleEffectNames,Records\Effects\Storm\TClap_Smoke_Blast01.dbr;Records\Effects\Storm\TClap_Sparks_Blast02.dbr,

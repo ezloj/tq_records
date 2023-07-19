@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Aura - +5% Attack Speed per level / +50% Total Resist,
+buffSkillName,Records\XPack\Skills\MonsterSkills\Buffs and Healing\Hero_BuffRadius_FrenzyBuff.dbr,
+instantCast,0,

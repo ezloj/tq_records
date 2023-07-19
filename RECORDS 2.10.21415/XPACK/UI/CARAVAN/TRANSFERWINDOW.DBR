@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\CaravanWindowPublic.tpl,
+InfoBox,Records\XPack\UI\Caravan\InfoBox.dbr,
+InventoryDBR,Records\XPack\UI\Caravan\StashInventory.dbr,
+TransferCostEquation,((playerLevel / 10) + 1) * marketItemCost,
+TransferPlate,Records\XPack\UI\Caravan\TransferPlate.dbr,
+TransferSortButton,Records\XPack\UI\Caravan\SortTransferButton.dbr,
+WindowLocationX,0,
+WindowLocationY,126,

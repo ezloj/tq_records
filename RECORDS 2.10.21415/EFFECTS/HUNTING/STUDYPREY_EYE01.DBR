@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+FileDescription,Poison damage over time,
+particleEffectNames,Records\Effects\Hunting\StudyPrey_EyeFX01.dbr,

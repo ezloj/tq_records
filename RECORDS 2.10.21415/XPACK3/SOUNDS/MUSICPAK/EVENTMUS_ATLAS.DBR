@@ -1,0 +1,5 @@
+templateName,database\Templates\EventMusicPak.tpl,
+AmbientFadeTime,2.000000,
+Class,EventMusicSession,
+delayTime,10,
+volume,0.800000,

@@ -1,0 +1,6 @@
+templateName,Database\templates\proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+FileDescription,golden/rare only,
+fixedItemChance,100,
+fixedItemName1,records\xpack2\item\containers\boss containers\bosschest16_sinmara_03.dbr,
+fixedItemWeight1,100,

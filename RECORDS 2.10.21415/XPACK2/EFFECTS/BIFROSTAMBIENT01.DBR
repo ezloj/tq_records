@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack2\effects\bifrost.pfx,
+emitterType,Standard,
+localOrientFix,0,

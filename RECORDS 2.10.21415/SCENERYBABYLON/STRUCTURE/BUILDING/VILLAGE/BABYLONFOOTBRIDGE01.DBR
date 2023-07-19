@@ -1,0 +1,8 @@
+templateName,database\Templates\Tile.tpl,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+baseTexture,SceneryBabylon\Structure\Building\Village\VillageFootBridge01.tex,
+bumpTexture,SceneryBabylon\Structure\Building\Village\VillageFootBridge01BMP.tex,
+mesh,SceneryBabylon\Structure\Building\Village\BabylonFootBridge.msh,
+scale,1.000000,

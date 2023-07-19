@@ -1,0 +1,4 @@
+templateName,database\Templates\UnlockCode.tpl,
+Code,274267,
+FileDescription,Asia,
+Items,Records\XPack\Item\EquipmentArmor\Armband\Z_Asia01.dbr;Records\XPack\Item\EquipmentArmor\Torso\Z_Asia01.dbr;Records\XPack\Item\EquipmentArmor\Greaves\Z_Asia01.dbr;Records\XPack\Item\EquipmentArmor\Helm\Z_Asia01.dbr;Records\XPack\Item\EquipmentWeapons\Sword\Z_Asia01a.dbr;Records\XPack\Item\EquipmentWeapons\Sword\Z_Asia01b.dbr,

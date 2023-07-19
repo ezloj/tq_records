@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_AttackProjectileDebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,records\xpack2\skills\monster skills\attack_melee\fireimp_shacklebuff.dbr,
+projectileLaunchNumber,1,
+projectileNames,records\effects\projectiles\invisible_summonshot.dbr,

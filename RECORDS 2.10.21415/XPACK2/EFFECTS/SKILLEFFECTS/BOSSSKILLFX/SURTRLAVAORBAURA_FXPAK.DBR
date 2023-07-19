@@ -1,0 +1,8 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+FileDescription,flame ring & ball mesh,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,records\xpack2\effects\skilleffects\BossSkillFX\surtrlavaorbaura_meshfx.dbr,
+particleEffectNames,records\effects\earth\ringofflame\ringofflame_med_fx.dbr,

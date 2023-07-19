@@ -1,0 +1,5 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,records\xpack4\creatures\monster\zz_dev\x4_dev_prosoro_exhumedmedjai.dbr,
+skillActivateFxPak,records\effects\boss effects\343_aktaios_sandstorm_fxpak01.dbr,
+skillWarningSound,records\xpack\sounds\soundpak\shrines\hadesteleportshrineactivate.dbr,

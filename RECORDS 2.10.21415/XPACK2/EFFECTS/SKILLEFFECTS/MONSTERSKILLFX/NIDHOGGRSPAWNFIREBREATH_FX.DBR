@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Gold_Skeleton_Orb01,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack2\effects\particles\skilleffects\monsterskillfx\nidhoggr_spawn_firebreath_fx.pfx,
+localOrientFix,0,

@@ -1,0 +1,7 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+FileDescription,unused,
+animationName,XPack\Effects\Meshes\SkillEffects\BossSkillFX\ANM\CharonSpout_Erupt.anm,
+disturbanceRadius,2.000000,
+meshName,XPack2\effects\meshes\gunnlodspout.msh,
+speed,1.000000,

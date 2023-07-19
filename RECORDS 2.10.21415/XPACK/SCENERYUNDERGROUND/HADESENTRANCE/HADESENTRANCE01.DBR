@@ -1,0 +1,7 @@
+templateName,database\Templates\Engine\GridSystem.tpl,
+Class,GridSystem,
+cellSpacingX,10.000000,
+cellSpacingY,150.000000,
+cellSpacingZ,10.000000,
+feature,XPack\SceneryUnderground\HadesEntrance\fea_he_stair01.msh;XPack\SceneryUnderground\HadesEntrance\fea_he_stair02.msh,
+minWallOpacity,0.000000,

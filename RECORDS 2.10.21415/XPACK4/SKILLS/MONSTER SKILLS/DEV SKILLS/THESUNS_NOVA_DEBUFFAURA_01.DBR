@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,LightningMastery_StoreStrike,
+Class,Skill_BuffRadiusToggled,
+instantCast,1,

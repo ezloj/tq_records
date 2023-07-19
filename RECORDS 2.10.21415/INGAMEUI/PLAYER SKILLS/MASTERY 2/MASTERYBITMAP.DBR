@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapUIAware,
+bitmapNames,InGameUI\Skills\DefensePanel01.tex;InGameUI\Skills\DefensePanel01.tex,
+bitmapPositionsX,718;748,
+bitmapPositionsY,31;31,

@@ -1,0 +1,4 @@
+templateName,database\Templates\RenderGroupNode.tpl,
+Class,RenderGroupNode,
+actorRadius,0.000000,
+description,fern,

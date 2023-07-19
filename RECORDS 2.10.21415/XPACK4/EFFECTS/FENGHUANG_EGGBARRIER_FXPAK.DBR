@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,Used in FengHuang_EggBarrier,
+particleEffectAttachPoints,Head_Effect,
+particleEffectNames,records\xpack4\effects\fenghuang_eggbarrier.dbr,

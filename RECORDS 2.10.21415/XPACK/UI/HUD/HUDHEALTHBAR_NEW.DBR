@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\BarGraph.tpl,
+FileDescription,BarGraph,
+FontStyle,Records\XPack\UI\TextStyles\BarGraph_new.dbr,
+bitmapEmptyName,InGameUI\HealthEMPTY01_new.tex,
+bitmapFullName,InGameUI\HealthFull01_new.tex,
+bitmapPositionX,2,
+bitmapPositionY,15,

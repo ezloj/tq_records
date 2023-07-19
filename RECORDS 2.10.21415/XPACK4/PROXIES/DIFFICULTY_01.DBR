@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyEquation.tpl,
+FileDescription,From ragnarok - must change,
+championDifficultyEquation,availableChampionDifficulty * (0.4 * ((numberOfPlayers / 10) + 1)),
+characterDifficultyEquation,characterLevel * 1,
+difficultyEquation,(averagePlayerLevel * 3.5) * (1 + (numberOfPlayers / 10)),

@@ -1,0 +1,3 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,Records\Skills\Defensive\RallyBuff.dbr,

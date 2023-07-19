@@ -1,0 +1,6 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Item\Containers\Boss\RepeatBossChest09_PharaohsHonorGuard_Normal.dbr,
+fixedItemWeight1,100,
+fixedItemWeight2,0,

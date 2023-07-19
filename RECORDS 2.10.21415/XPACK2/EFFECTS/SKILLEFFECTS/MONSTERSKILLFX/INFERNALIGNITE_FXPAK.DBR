@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.200000,
+cameraShakeDuration,0.300000,
+disturbanceRadius,6.000000,
+particleEffectNames,Records\XPack2\Effects\skilleffects\MonsterSkillFX\InfernalIgnite_fx.dbr,

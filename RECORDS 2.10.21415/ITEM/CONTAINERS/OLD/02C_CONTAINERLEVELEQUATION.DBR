@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemLevelEquation.tpl,
+FileDescription,Epic Orient - 9 tables,
+levelEquation,((maxPlayerLevel*1)-44)/1.875,

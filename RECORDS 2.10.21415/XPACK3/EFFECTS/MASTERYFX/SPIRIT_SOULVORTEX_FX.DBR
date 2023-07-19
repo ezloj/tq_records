@@ -1,0 +1,8 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects\spirit\consumelife_vortex01.pfx,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,imploding soul tornado,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack3\effects\masteryfx\soul_vortex.pfx,
+localOrientFix,1,

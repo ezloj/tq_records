@@ -1,0 +1,6 @@
+templateName,Database\templates\MenuSound.tpl,
+Class,MenuSound,
+ambientSound,Sounds\xpack\ambient\titlescreen\titlescreen_ambience.wav,
+introMusic,Music\xpack\event\mediterranean area 1\mus_event_mediterranean1_01.mp3,
+loopingCreditsMusic,Music\credits\tq_credits.mp3,
+rockingCreditsMusic,Music\credits\tq_rock.mp3,

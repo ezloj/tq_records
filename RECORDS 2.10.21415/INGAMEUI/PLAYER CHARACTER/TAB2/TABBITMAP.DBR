@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\CharacterScreen\SecondaryStatsBtn01.tex,
+bitmapPositionX,104,
+bitmapPositionY,-1,

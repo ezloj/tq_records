@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemLevelEquation.tpl,
+FileDescription,Normal Greece - 002-003,
+levelEquation,((averagePlayerLevel*1)/2.05)-1,

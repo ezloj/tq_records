@@ -1,0 +1,5 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\Earth\Explosion_Impact_FX03.pfx,

@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Pets,
+NuggetArray,Records\InGameUI\TutorialWindow\Page35\P35N1.dbr;Records\InGameUI\TutorialWindow\Page35\P35N2.dbr;Records\InGameUI\TutorialWindow\Page35\P35N3.dbr,

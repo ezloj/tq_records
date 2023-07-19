@@ -1,0 +1,3 @@
+templateName,database\Templates\Skill_AttackBuffRadius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,Records\Skills\Medicine\MedicineMastery_RiskOfInfection2Buff.dbr,

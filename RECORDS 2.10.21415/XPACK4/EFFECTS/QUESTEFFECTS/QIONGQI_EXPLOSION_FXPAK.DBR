@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+activateSound,records\XPack4\Sounds\soundpak\Creatures\QiongQi_Explosion_PAK.dbr,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,records\XPack4\Effects\QuestEffects\QiongQi_Explosion_Fx.dbr,

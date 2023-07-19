@@ -1,0 +1,7 @@
+templateName,database\Templates\ProxyLimits.tpl,
+maxPlayerLevelEquationEpic,51 * 1,
+maxPlayerLevelEquationLegendary,74 * 1,
+maxPlayerLevelEquationNormal,18 * 1,
+minPlayerLevelEquationEpic,41 * 1,
+minPlayerLevelEquationLegendary,66 * 1,
+minPlayerLevelEquationNormal,15 * 1,

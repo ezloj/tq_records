@@ -1,0 +1,6 @@
+templateName,database\Templates\LootRandomizerTable.tpl,
+Class,LootRandomizerTable,
+randomizerName1,records\item\lootmagicalaffixes\prefix\default\character_attributeenergy_06.dbr,
+randomizerName7,records\item\lootmagicalaffixes\prefix\default\offensive_damagefire_04.dbr,
+randomizerWeight1,5,
+randomizerWeight7,3,

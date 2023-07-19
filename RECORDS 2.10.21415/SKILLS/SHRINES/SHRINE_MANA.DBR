@@ -1,0 +1,4 @@
+templateName,database\Templates\FixedItemSkill_Buff.tpl,
+Class,FixedItemSkill_Buff,
+buffSkillName,Records\Skills\Misc\Shrine_ManaBuff.dbr,
+targetRadius,5.000000,

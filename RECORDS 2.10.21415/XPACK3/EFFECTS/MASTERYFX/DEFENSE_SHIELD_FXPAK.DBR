@@ -1,0 +1,6 @@
+templateName,database\Templates\CharFxPak.tpl,
+colorGreen,1.000000,
+colorRed,1.000000,
+particleEffectAttachPoints,L Hand,
+particleEffectNames,records\xpack3\effects\masteryfx\defense_shield_fx.dbr,
+useTintColor,1,

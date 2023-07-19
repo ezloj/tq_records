@@ -1,0 +1,7 @@
+templateName,Database\Templates\PatrolPoint.tpl,
+Class,PatrolPoint,
+actorHeight,1.000000,
+actorRadius,1.000000,
+baseTexture,System\Textures\White.tex,
+mesh,System\Meshes\Sphere.msh,
+scale,1.000000,

@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Item\Containers\Boss\RepeatBossChest28_AncientTropicalArachnos_Normal.dbr,
+fixedItemWeight1,100,

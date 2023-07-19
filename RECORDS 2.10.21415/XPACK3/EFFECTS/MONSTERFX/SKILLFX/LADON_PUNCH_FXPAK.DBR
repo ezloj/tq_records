@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.400000,
+cameraShakeDuration,1.000000,
+disturbanceRadius,1.000000,
+particleEffectNames,Records/XPack3/Effects/MonsterFX/SkillFX/ladon_punch_fx.dbr,

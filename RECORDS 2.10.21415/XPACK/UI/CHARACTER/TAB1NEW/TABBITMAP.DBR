@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\CharacterScreen\PrimaryStatsBtn01.tex,
+bitmapPositionX,-1,
+bitmapPositionY,-1,
+rollover,button,

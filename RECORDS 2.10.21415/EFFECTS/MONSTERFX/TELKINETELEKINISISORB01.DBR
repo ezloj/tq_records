@@ -1,0 +1,6 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+attachPoint,SpecialHit01,
+disturbanceRadius,2.000000,
+meshName,Effects\MonsterFX\Telkine_Telekinisis_Orb_Red01.msh,
+speed,1.000000,

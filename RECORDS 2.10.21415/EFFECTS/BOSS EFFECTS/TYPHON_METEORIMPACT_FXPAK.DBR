@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+ActorName,Effects_Gold_Skeleton_Orb01,
+Class,FxPak,
+particleEffectNames,Records\Effects\Boss Effects\Typhon_MeteorImpact_FX.dbr,

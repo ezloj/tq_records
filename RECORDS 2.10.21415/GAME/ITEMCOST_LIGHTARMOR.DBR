@@ -1,0 +1,7 @@
+templateName,database\Templates\ItemCost.tpl,
+armorCostEquation,((((defenseAttrArmor * 2) ^ 2.05) +50) + (itemPrefixCost + itemSuffixCost)) * (1 + (totalAttCount * .6)),
+forearmStrengthEquation,50+((itemLevel-1)*5),
+headStrengthEquation,50+((itemLevel-1)*5),
+lowerBodyStrengthEquation,50+((itemLevel-1)*5),
+shieldCostEquation,((((((damageAvgBase + shieldBlockDefense) + (shieldBlockChance * 10))  / 15) ^ 3) - 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 1) * .5)),
+upperBodyStrengthEquation,50+((itemLevel-1)*5),

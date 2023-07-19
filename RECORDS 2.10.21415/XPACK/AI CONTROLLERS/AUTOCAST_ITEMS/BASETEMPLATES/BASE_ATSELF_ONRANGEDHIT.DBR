@@ -1,0 +1,5 @@
+templateName,database\Templates\SkillAutoCastController.tpl,
+FileDescription,Cast Skill at Self on Taking Ranged Damage,
+chanceToRun,100,
+targetType,Self,
+triggerType,HitByProjectile,

@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\UITutoriaNugget.tpl,
+FileDescription,Text,
+TextCentering,1,
+TextStyle,Records\UI\FontStyles\DescItemNameMagical.dbr,
+TextTag,tagTutorialTip05TextE,
+TopSpacing,1,

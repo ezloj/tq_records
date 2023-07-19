@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Item\Containers\Boss\BossChest13_Chimera_Epic.dbr.dbr,
+fixedItemWeight1,100,

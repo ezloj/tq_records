@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,INventoryFull - Merchant,
+NuggetArray,Records\InGameUI\TutorialWindow\Page34\P34N1.dbr;Records\InGameUI\TutorialWindow\Page34\P34N2.dbr;Records\InGameUI\TutorialWindow\Page34\P34N3.dbr,

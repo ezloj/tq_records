@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyPoolEquation.tpl,
+championMaxEquation,poolValue * (gameDifficulty + 1),
+championMinEquation,poolValue * (gameDifficulty + 1),
+spawnMaxEquation,poolValue * (gameDifficulty + 1),
+spawnMinEquation,poolValue * (gameDifficulty + 1),

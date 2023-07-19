@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Aura_Lightning_Activation01,
+Class,EffectEntity,
+effectFile,Effects\Auras\Aura_Lightning_Activation01.pfx,

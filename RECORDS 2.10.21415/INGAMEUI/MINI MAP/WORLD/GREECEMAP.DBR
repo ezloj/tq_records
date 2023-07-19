@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\WorldMapInstance.tpl,
+containedZones,Records\InGameUI\Mini Map\Zones\Greece\Athens.dbr;Records\InGameUI\Mini Map\Zones\Greece\Delphi.dbr;Records\InGameUI\Mini Map\Zones\Greece\Helios.dbr;Records\InGameUI\Mini Map\Zones\Greece\Knossos.dbr;Records\InGameUI\Mini Map\Zones\Greece\Megara.dbr;Records\InGameUI\Mini Map\Zones\Greece\MonsterCamp.dbr;Records\InGameUI\Mini Map\Zones\Greece\SpartanCamp.dbr,
+mapImage,InGameUI\Map\worldMap1.tex,
+mapPaneX,337,
+mapPaneY,107,
+overlayImage,Records\InGameUI\Mini Map\MiniMapOverlayBitmap.dbr,

@@ -1,0 +1,4 @@
+templateName,Database\templates\skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Stuns and Disrupts player for 3 seconds + phys dmg,
+buffSkillName,records\xpack3\skills\boss skills\firstdisciple_earthenbarrierbuff.dbr,

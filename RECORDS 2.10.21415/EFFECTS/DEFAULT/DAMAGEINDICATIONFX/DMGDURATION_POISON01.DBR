@@ -1,0 +1,5 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,Poison damage over time - no mesh,
+particleEffectAttachPoints,HeadEffect,
+particleEffectNames,Records\Effects\Default\DamageIndicationFX\DmgDuration_PoisonFX01.dbr,
+startSound,Records\Sounds\SoundPak\Spells\Rogue\PoisonBurstPak.dbr,

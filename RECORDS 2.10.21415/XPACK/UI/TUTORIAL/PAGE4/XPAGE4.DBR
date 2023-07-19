@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Arcane Formulae,
+NuggetArray,records\xpack\ui\tutorial\page4\p4n1.dbr;records\xpack\ui\tutorial\page4\p4n2.dbr;records\xpack\ui\tutorial\page4\p4n3.dbr;records\xpack\ui\tutorial\page4\p4n4.dbr,

@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.400000,
+cameraShakeDuration,3.000000,
+disturbanceRadius,1.000000,
+particleEffectNames,Records/XPack3/Effects/EnvironmentFX/Tartarus/tartarus_skullgate_open_FX.dbr,

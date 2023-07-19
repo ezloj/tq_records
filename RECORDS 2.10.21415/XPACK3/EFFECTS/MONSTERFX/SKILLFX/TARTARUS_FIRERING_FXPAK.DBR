@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,1.000000,
+disturbanceRadius,5.000000,
+meshEffectNames,Records\Effects\Earth\Eruption_SpawnRocks_FXMesh.dbr,
+particleEffectNames,records\effects\earth\343_conflagration_looping_fx.dbr,

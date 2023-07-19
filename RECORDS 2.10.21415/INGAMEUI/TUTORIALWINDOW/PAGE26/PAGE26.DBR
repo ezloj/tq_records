@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Chat,
+NuggetArray,Records\InGameUI\TutorialWindow\Page26\P26N1.dbr;Records\InGameUI\TutorialWindow\Page26\P26N2.dbr;Records\InGameUI\TutorialWindow\Page26\P26N3.dbr,

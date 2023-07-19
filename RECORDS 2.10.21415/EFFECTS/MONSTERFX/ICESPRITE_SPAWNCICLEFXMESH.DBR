@@ -1,0 +1,8 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,Effects\MonsterFX\ANM\SpriteIce_SpawnCicle_Activate.anm,
+disturbanceRadius,2.000000,
+fadeInTime,0.100000,
+fadeOutTime,0.100000,
+meshName,Effects\MonsterFX\SpriteIce_SpawnCicle.msh,
+speed,1.000000,

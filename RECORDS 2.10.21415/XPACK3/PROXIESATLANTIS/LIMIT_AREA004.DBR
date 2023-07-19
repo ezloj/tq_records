@@ -1,0 +1,8 @@
+templateName,database\Templates\ProxyLimits.tpl,
+FileDescription,~Epirus,
+maxPlayerLevelEquationEpic,60*1,
+maxPlayerLevelEquationLegendary,82*1,
+maxPlayerLevelEquationNormal,35*1,
+minPlayerLevelEquationEpic,50*1,
+minPlayerLevelEquationLegendary,74*1,
+minPlayerLevelEquationNormal,30*1,

@@ -1,0 +1,8 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\Spirit\343_DeathchillAura_Low.pfx,
+emitterType,Standard,
+localOrientFix,1,

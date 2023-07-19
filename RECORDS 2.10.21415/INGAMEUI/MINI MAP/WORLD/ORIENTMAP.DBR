@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\WorldMapInstance.tpl,
+containedZones,Records\InGameUI\Mini Map\Zones\Orient\BabylonOutSkirts.dbr;Records\InGameUI\Mini Map\Zones\Orient\ChangAn.dbr;Records\InGameUI\Mini Map\Zones\Orient\GreatWall.dbr;Records\InGameUI\Mini Map\Zones\Orient\HangingGardens.dbr;Records\InGameUI\Mini Map\Zones\Orient\JadePalace.dbr;Records\InGameUI\Mini Map\Zones\Orient\SilkRoadEast.dbr;Records\InGameUI\Mini Map\Zones\Orient\SilkRoadWest.dbr;Records\InGameUI\Mini Map\Zones\Orient\TyphonsPrison.dbr,
+mapImage,InGameUI\Map\worldMap3.tex,
+mapPaneX,337,
+mapPaneY,107,
+overlayImage,Records\InGameUI\Mini Map\MiniMapOverlayBitmap.dbr,

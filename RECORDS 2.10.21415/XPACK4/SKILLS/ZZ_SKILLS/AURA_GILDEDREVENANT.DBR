@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,DefensiveMastery_SheildTraining,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records\XPack4\Skills\ZZ_Skills\BattleAwarenessbuff_RevenantAura.dbr,
+instantCast,0,

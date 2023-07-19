@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_LStrike_Dust_TEST01,
+Class,EffectEntity,
+effectFile,SandBox\Eric\LStrikeDust02.pfx,

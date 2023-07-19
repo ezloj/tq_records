@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,records\XPack4\Skills\Boss Skills\TerracottaGeneral_ImperialBattleStandard_petskill_buff.dbr,
+instantCast,0,

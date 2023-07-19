@@ -1,0 +1,6 @@
+templateName,database\Templates\Skill_AttackProjectileDebuf.tpl,
+ActorName,Typhon_BonetrapGrenade,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,Fires a webbed net projectile.,
+buffSkillName,Records\XPack\Skills\MonsterSkills\ActiveAttackProjectile\AlbinoSpiderQueen_RangedWeb_Buff.dbr,
+projectileNames,Records\XPack\Effects\Skill Effects\MonsterSkillFX\SpiderNetProjectile.dbr,

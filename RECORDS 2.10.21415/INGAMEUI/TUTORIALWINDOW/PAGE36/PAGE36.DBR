@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Skill Reallicator,
+NuggetArray,Records\InGameUI\TutorialWindow\Page36\P36N1.dbr;Records\InGameUI\TutorialWindow\Page36\P36N2.dbr;Records\InGameUI\TutorialWindow\Page36\P36N3.dbr,

@@ -1,0 +1,6 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,XPack3\effects\meshfx\anm\ancientone_hide.anm,
+disturbanceRadius,2.000000,
+meshName,XPack3\effects\meshfx\ancientone_hide.msh,
+speed,1.000000,

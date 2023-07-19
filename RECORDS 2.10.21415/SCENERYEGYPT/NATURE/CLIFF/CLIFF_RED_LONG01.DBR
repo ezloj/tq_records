@@ -1,0 +1,7 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,Egypt_Cliff_Red_Long01,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+mesh,SceneryEgypt\Nature\Cliff\CliffEgyptRed02.msh,
+scale,1.000000,

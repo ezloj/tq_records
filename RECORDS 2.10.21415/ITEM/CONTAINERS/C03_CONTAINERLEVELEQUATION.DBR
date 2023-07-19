@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemLevelEquation.tpl,
+FileDescription,Normal Orient - 021-023,
+levelEquation,((averagePlayerLevel*1)/2.05)-12,

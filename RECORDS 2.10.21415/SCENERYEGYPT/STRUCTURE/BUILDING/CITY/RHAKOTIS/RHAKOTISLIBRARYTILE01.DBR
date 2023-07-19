@@ -1,0 +1,7 @@
+templateName,database\Templates\Engine\GridEntrance.tpl,
+Class,GridEntrance,
+actorHeight,0.000000,
+actorRadius,0.000000,
+description,Library FAKADEE,
+mesh,Underground\Egypt\Rahkotis Library Set\RahkotisLibrary_Facade01.msh,
+scale,1.000000,

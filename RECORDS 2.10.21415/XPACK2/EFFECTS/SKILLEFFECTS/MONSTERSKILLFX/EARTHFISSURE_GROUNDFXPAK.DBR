@@ -1,0 +1,8 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+activateSound,records\sounds\soundpak\spells\earth\meteorexplodelayerpak.dbr,
+cameraShakeAmplitude,0.200000,
+cameraShakeDuration,0.300000,
+disturbanceRadius,0.000000,
+meshEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\earthfissure.dbr,
+particleEffectNames,Records/XPack2/Effects/Projectiles/Jotun_clubslamflight_fx.dbr,

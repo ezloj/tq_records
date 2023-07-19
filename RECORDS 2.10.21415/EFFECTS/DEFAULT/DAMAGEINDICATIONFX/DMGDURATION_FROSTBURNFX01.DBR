@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_Spine02;Bone_R_Shoulder;Bone_L_Shoulder,
+effectFile,Effects\Default\DamageIndicationFX\343DmgDuration_FrostFX_Lite.pfx,
+emitterType,BoneList,

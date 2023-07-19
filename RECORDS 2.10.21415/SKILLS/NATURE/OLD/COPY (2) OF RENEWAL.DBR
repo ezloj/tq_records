@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+ActorName,NatureMastery_Renewal,
+Class,Skill_BuffRadius,
+buffSkillName,Records\Skills\Nature\RenewalBuff.dbr,

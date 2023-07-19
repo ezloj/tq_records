@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.200000,
+cameraShakeDuration,1.000000,
+disturbanceRadius,15.000000,
+particleEffectNames,Records\Effects\Earth\343_SummonCoreDwellerFX.dbr,

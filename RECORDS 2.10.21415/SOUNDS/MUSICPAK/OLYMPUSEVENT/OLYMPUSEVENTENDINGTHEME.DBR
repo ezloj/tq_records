@@ -1,0 +1,6 @@
+templateName,database\Templates\EventMusicPak.tpl,
+AmbientFadeTime,2.000000,
+Class,EventMusicSession,
+delayTime,0,
+eventMusicName,Music\Olympus\TQ_Finale.mp3,
+volume,0.850000,

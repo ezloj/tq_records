@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records\XPack4\Skills\Item Skills\GatesOfHell_Quillvine_Rootaura_Debuff.dbr,
+instantCast,1,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffOther.tpl,
+ActorName,FireMastery_FlameStrike,
+Class,Skill_BuffOther,
+buffSkillName,Records\Skills\Earth\FireEnchantmentBuff.dbr,

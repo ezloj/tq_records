@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\SkillButtonSlot.tpl,
+bitmapNameDown,InGameUI\SkillButtonBorderOver01.tex,
+bitmapPositionX,586,
+bitmapPositionY,717,
+isCircular,0,
+skillDropSound,Records\Sounds\SoundPak\UI\IconDropPak.dbr,
+skillPickupSound,Records\Sounds\SoundPak\UI\IconPickupPak.dbr,

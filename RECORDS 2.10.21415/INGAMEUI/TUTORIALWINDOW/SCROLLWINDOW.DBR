@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\ScrollableWindow.tpl,
+height,100,
+positionX,12,
+positionY,50,
+verticalScrollbar,Records\InGameUI\TutorialWindow\Scrollbar\VScrollbar.dbr,
+width,174,

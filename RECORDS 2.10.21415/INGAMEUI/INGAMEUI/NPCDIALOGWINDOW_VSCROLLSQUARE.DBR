@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\ElasticWidget.tpl,
+firstEndTexture,InGameUI\NPCscrollup01.tex,
+lastEndTexture,InGameUI\NPCscrolldown01.tex,
+middleTexture,InGameUI\NPCscrollmiddle01.tex,
+positionX,0,
+positionY,0,

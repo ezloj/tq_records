@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapSingleUIAware,
+bitmapNames,XPack4\InGameUI\TeleportMap\TeleportMap01.tex;XPack4\InGameUI\Controller\TeleportMap\TeleportMap01.tex,
+bitmapPositionsX,0;0,
+bitmapPositionsY,0;0,

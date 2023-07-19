@@ -1,0 +1,4 @@
+templateName,Database\templates\skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records\xpack2\skills\boss skills\pet\surtr1_protector_aurabuff.dbr,
+instantCast,0,

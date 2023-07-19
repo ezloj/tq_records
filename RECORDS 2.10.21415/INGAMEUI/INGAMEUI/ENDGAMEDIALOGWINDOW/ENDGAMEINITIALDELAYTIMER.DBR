@@ -1,0 +1,3 @@
+templateName,database\Templates\TemplateBase\Timer.tpl,
+Class,Timer,
+time,15000,

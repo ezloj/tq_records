@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.400000,
+disturbanceRadius,8.000000,
+particleEffectNames,Records\XPack\Effects\Particles\SkillEffects\DreamSkillFX\DistortReality_FX.dbr,

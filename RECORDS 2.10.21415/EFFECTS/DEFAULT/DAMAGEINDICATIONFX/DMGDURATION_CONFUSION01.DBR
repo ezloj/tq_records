@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,Confusion damage over time,
+particleEffectAttachPoints,HeadEffect,
+particleEffectNames,Records\Effects\Default\DamageIndicationFX\DmgDuration_ConfusionFX01.dbr,

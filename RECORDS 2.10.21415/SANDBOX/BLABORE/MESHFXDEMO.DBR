@@ -1,0 +1,6 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,SandBox\blabore\LightningStrike_Alpha.anm,
+loop,0,
+meshName,SandBox\blabore\LightningStrike_Mesh.msh,
+speed,1.000000,

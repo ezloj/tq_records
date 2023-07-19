@@ -1,0 +1,6 @@
+templateName,database\Templates\RolloverLine1.tpl,
+FileDescription,RolloverLine1,
+Line1FormatTag,xtagExperienceDisplayFormat,
+Line1FormatTag2,tagMaxLevel,
+Line1Style,Records\UI\FontStyles\TextStandard_White.dbr,
+rolloverStyle,Records\UI\RolloverStyles\Optional.dbr,

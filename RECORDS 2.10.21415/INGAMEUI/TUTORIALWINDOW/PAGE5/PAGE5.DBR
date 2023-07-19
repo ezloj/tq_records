@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Monsters Defeated,
+NuggetArray,Records\InGameUI\TutorialWindow\Page5\P5N1.dbr;Records\InGameUI\TutorialWindow\Page5\P5N2.dbr;Records\InGameUI\TutorialWindow\Page5\P5N3.dbr;Records\InGameUI\TutorialWindow\Page5\P5N4.dbr;Records\InGameUI\TutorialWindow\Page5\P5N5.dbr;Records\InGameUI\TutorialWindow\Page5\P5N6.dbr;Records\InGameUI\TutorialWindow\Page5\P5N7.dbr;Records\InGameUI\TutorialWindow\Page5\P5N8.dbr;Records\InGameUI\TutorialWindow\Page5\P5N9.dbr,

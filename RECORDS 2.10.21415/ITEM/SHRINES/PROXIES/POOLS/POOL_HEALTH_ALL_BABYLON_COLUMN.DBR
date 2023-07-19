@@ -1,0 +1,7 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Item\Shrines\AttributeOrient\Shrine_Babylon_GiveLife01.dbr,
+fixedItemName2,Records\Item\Shrines\AttributeOrient\Shrine_Babylon_Regeneration01.dbr,
+fixedItemWeight1,50,
+fixedItemWeight2,50,

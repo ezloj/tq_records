@@ -1,0 +1,6 @@
+templateName,database\Templates\EventMusicPak.tpl,
+AmbientFadeTime,1.000000,
+Class,EventMusicSession,
+delayTime,10,
+eventMusicName,Music\Greece\Event Music\GrkBurningForestsandCitiesTheme.mp3,
+volume,0.650000,

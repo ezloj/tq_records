@@ -1,0 +1,6 @@
+templateName,database\Templates\FXpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.000000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,Records\XPack3\Effects\MonsterFX\SkillFX\merfolk_summonfx.dbr,

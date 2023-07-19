@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Fire_Ground_Large01,
+Class,EffectEntity,
+effectFile,Effects\Fire\Fire_Ground_Large01.pfx,

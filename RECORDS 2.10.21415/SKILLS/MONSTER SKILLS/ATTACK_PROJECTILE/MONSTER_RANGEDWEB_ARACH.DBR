@@ -1,0 +1,6 @@
+templateName,database\Templates\Skill_AttackProjectileDebuf.tpl,
+ActorName,HuntingMastery_Ensnare,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,Records\Skills\Monster Skills\Attack_Projectile\Monster_RangedWebBuff_Arach.dbr,
+projectileLaunchNumber,1,
+projectileNames,Records\XPack\Effects\Skill Effects\MonsterSkillFX\SpiderNetProjectile.dbr,

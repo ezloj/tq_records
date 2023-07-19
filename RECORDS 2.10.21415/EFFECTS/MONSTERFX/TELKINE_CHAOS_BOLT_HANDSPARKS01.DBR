@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Gold_Skeleton_Orb01,
+Class,EffectEntity,
+effectFile,Effects\MonsterFX\Telkine_Chaos_Bolt_HandSparks01.pfx,
