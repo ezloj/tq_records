@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Class,FxPak,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,Records\XPack2\Effects\skilleffects\MonsterSkillFX\SirenEnchantingSong_fx.dbr,

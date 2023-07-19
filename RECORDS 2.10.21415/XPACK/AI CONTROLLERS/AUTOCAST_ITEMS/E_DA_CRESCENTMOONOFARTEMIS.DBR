@@ -1,0 +1,6 @@
+templateName,database\Templates\SkillAutoCastController.tpl,
+FileDescription,5% Chance to Fire on Taking Any Damage,
+autoTargetRadius,10.000000,
+chanceToRun,5,
+targetType,Self,
+triggerType,HitByEnemy,

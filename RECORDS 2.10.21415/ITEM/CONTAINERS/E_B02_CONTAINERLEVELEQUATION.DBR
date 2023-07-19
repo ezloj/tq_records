@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemLevelEquation.tpl,
+FileDescription,Epic Egypt - 011-013,
+levelEquation,((averagePlayerLevel*1)/2.02)-20,

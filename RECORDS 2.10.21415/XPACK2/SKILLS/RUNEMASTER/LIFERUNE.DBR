@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffOther.tpl,
+Class,Skill_BuffOther,
+FileDescription,BuffOther,
+buffSkillName,records\xpack2\skills\runemaster\liferune_buff.dbr,

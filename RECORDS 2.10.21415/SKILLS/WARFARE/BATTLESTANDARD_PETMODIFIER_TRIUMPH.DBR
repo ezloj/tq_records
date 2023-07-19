@@ -1,0 +1,3 @@
+templateName,database\Templates\SkillSecondary_PetModifier.tpl,
+Class,SkillSecondary_PetModifier,
+petSkillName,Records\Skills\Warfare\BattleStandard_PetSkill_TriumphBuffRadius.dbr,

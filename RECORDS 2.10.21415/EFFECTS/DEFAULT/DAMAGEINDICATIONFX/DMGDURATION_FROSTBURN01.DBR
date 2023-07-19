@@ -1,0 +1,5 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,Cold damage over time,
+particleEffectAttachPoints,HeadEffect,
+particleEffectNames,Records\Effects\Default\DamageIndicationFX\DmgDuration_FrostBurnFX01.dbr,
+startSound,Records\Sounds\SoundPak\Spells\Storm\ColdBurstHitPak.dbr,

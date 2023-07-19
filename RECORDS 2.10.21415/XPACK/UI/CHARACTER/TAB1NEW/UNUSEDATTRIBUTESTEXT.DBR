@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\TextString.tpl,
+style,Records\UI\FontStyles\TextStandard_Grey.dbr,
+textAlignmentX,Right,
+textAlignmentY,Top,
+textBoxX,102,
+textBoxXSize,141,
+textBoxY,68,
+textBoxYSize,16,

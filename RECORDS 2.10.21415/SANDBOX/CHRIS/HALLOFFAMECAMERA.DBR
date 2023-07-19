@@ -1,0 +1,7 @@
+templateName,database\Templates\HallOfFameCamera.tpl,
+Class,HallOfFameCamera,
+actorHeight,0.000000,
+actorRadius,0.000000,
+description,HallOfFameStand,
+mesh,System\Meshes\WidgetArrow.msh,
+scale,1.000000,

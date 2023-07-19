@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Wrist;Bone_L_Wrist,
+effectFile,XPack4\effects\undying_obedience.pfx,
+emitterType,BoneList,
+localOrientFix,0,

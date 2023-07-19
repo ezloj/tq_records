@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Merchant Window,
+NuggetArray,Records\InGameUI\TutorialWindow\Page9\P9N1.dbr;Records\InGameUI\TutorialWindow\Page9\P9N2.dbr;Records\InGameUI\TutorialWindow\Page9\P9N4.dbr;Records\InGameUI\TutorialWindow\Page9\P9N3.dbr,

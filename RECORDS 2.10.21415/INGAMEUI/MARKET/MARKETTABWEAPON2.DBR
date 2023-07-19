@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\ButtonStatic.tpl,
+bitmapNameDown,InGameUI\Market\StaffTabUp01.tex,
+bitmapPositionX,76,
+bitmapPositionY,82,
+soundNameDown,Records\Sounds\SoundPak\UI\BagChangePak.dbr,

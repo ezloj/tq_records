@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.200000,
+cameraShakeDuration,0.200000,
+disturbanceRadius,4.000000,
+particleEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\woodcolossus_stomp_fx.dbr,

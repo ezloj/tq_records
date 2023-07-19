@@ -1,0 +1,8 @@
+templateName,database\Templates\Tile.tpl,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+baseTexture,SceneryOrient\Nature\CliffSnow\CliffTileOrient02_Snow.tex,
+bumpTexture,SceneryOrient\Nature\CliffSnow\CliffTileOrient02BMP_Snow.tex,
+mesh,SceneryOrient\Nature\Cliff\CliffTileCornerC04.msh,
+scale,1.000000,

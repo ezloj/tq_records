@@ -1,0 +1,4 @@
+templateName,database\Templates\FixedItemSkill_RemoveBuff.tpl,
+Class,FixedItemSkill_RemoveBuff,
+buffSkillName,records\item\HeraclesWay\Buffs\HeraclesDebuff07.dbr,
+targetRadius,5.000000,

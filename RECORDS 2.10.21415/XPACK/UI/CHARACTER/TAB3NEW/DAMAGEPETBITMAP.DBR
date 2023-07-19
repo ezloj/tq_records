@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\CharacterScreen\petdamageicon_01.tex,
+bitmapPositionX,215,
+bitmapPositionY,55,

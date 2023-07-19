@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.400000,
+cameraShakeDuration,0.200000,
+disturbanceRadius,1.000000,
+particleEffectNames,Records\Effects\Stealth\343_LethalStrike_Medium_FX.dbr,

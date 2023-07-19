@@ -1,0 +1,8 @@
+templateName,database\Templates\ProxyPool.tpl,
+championChance,0.100000,
+championMax,1,
+championMin,0,
+name1,Records\Creature\Monster\QuestBosses\Talos_Decoration.dbr,
+spawnMax,1,
+spawnMin,1,
+weight1,10,

@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\CharacterScreen\Resistances\SpiritIcon01.tex,
+bitmapPositionX,117,
+bitmapPositionY,58,

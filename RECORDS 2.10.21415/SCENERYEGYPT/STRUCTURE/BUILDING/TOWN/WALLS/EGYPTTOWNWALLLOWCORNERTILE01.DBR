@@ -1,0 +1,7 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,EgyptTownWallLowCornerTile01,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+mesh,SceneryEgypt\Structure\Building\Town\Walls\EgyptTownWallLowCornerTile01.msh,
+scale,1.000000,

@@ -1,0 +1,7 @@
+templateName,database\Templates\Engine\Light.tpl,
+Class,Light,
+castsShadows,0,
+color.b,0.670000,
+color.g,0.600000,
+color.r,0.350000,
+radius,10.000000,

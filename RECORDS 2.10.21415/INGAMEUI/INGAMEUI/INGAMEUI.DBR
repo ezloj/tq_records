@@ -1,0 +1,3 @@
+templateName,database\Templates\InGameUI\InGameUI.tpl,
+FileDescription,InGameUI,
+uiGroundItemRolloverStyle,Records\UI\RolloverStyles\GroundItems.dbr,

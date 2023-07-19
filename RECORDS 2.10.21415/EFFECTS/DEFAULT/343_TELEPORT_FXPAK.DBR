@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+activateSound,Records\Sounds\SoundPak\Player\PlayerTeleportOutgoingPak.dbr,
+particleEffectNames,Records\Effects\Default\343_Teleport_FX.dbr,

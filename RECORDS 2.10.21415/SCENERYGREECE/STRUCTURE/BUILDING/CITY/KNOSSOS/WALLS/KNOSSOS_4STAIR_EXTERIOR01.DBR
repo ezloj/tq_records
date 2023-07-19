@@ -1,0 +1,8 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,Knossos_4Stair_Exterior01,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+description,Knossos_4Stair_Exterior01,
+mesh,SceneryGreece\Structure\Building\City\Knossos\Walls\Knossos_4Stair_Exterior01.msh,
+scale,1.000000,

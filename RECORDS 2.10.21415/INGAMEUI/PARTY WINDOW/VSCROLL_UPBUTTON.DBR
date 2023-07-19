@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\ButtonStatic.tpl,
+bitmapNameDown,InGameUI\quest\arrowdownsmalldown.tex,
+bitmapNameInFocus,InGameUI\quest\arrowdownsmallover.tex,
+bitmapNameUp,InGameUI\quest\arrowdownsmallup.tex,
+bitmapPositionX,0,
+bitmapPositionY,0,
+isCircular,0,
+soundNameDown,Records\Sounds\SoundPak\UI\GenericClickTinyPak.dbr,

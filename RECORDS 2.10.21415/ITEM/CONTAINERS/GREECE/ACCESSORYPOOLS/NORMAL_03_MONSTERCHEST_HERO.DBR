@@ -1,0 +1,7 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,60,
+fixedItemName1,Records\Item\Containers\Greece\MonsterChest_01B.dbr,
+fixedItemName2,Records\Item\Containers\Greece\MonsterChest_03C.dbr,
+fixedItemWeight1,90,
+fixedItemWeight2,20,

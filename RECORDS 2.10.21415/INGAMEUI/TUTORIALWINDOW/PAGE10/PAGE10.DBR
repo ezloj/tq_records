@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Portal Shrine,
+NuggetArray,Records\InGameUI\TutorialWindow\Page10\P10N1.dbr;Records\InGameUI\TutorialWindow\Page10\P10N2.dbr;Records\InGameUI\TutorialWindow\Page10\P10N3.dbr;Records\InGameUI\TutorialWindow\Page10\P10N4.dbr;Records\InGameUI\TutorialWindow\Page10\P10N5.dbr;Records\InGameUI\TutorialWindow\Page10\P10N6.dbr,

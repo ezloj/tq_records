@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\EditBox.tpl,
+Height,20,
+InvertedStyle,Records\UI\FontStyles\NormalInverted.dbr,
+LocationX,1,
+LocationY,226,
+NumericOnly,0,
+Style,Records\UI\FontStyles\Normal.dbr,
+Width,514,

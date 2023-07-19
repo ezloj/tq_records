@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Buff Radius to reference Lion's Roar Buff,
+buffSkillName,Records\XPack\Skills\ArtifactSkills\E_GA_Lionheart_LionsRoarBuff.dbr,
+instantCast,0,

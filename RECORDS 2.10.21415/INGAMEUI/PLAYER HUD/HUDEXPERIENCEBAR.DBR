@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\BarGraph.tpl,
+FileDescription,BarGraph,
+bitmapEmptyName,InGameUI\ExpBarEmpty01.tex,
+bitmapFullName,InGameUI\ExpBarFull01.tex,
+bitmapPositionX,101,
+bitmapPositionY,59,

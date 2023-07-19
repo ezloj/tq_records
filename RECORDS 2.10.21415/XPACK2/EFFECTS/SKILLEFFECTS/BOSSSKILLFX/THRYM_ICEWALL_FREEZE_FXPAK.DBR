@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.000000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,4.000000,
+particleEffectNames,records\effects\projectiles\343_staffcold_ternian_impact_fx.dbr,

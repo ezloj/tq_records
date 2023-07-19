@@ -1,0 +1,6 @@
+templateName,database\Templates\ItemCost.tpl,
+amuletLevelEquation,itemLevel-1,
+ringLevelEquation,itemLevel-1,
+staffIntelligenceEquation,50+((itemLevel-1)*7.75),
+weaponCostEquation,(((((((damageAvgBase * 8.3) * ((0.5 + (charAttackSpeed / 1.5)) * 1)) ^ 2.75) * ((damageAvgPierceRatio / 48) + 1)) / 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 3) * .9))) + 10,
+weaponRangedCostEquation,(((((((damageAvgBase * 8.3) * ((0.5 + (charAttackSpeed / 1.5)) * 1)) ^ 2.75) * ((damageAvgPierceRatio / 48) + 1)) / 100) + (itemPrefixCost + itemSuffixCost)) * (1 + ((totalAttCount - 3) * .9))) + 10,

@@ -1,0 +1,5 @@
+templateName,Database\templates\charfxpak.tpl,
+colorBlue,1.000000,
+colorGreen,1.000000,
+particleEffectNames,Records\XPack2\Effects\skilleffects\MonsterSkillFX\CrystalGolem01_fx.dbr,
+useTintColor,1,

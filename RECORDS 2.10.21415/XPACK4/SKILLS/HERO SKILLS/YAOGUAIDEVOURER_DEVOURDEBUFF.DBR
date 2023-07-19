@@ -1,0 +1,3 @@
+templateName,database\Templates\Skill_AttackBuff.tpl,
+Class,Skill_AttackBuff,
+buffSkillName,records\XPack4\Skills\Hero Skills\YaoguaiDevourer_DevourBuffDebuff.dbr,

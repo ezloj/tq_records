@@ -1,0 +1,5 @@
+templateName,Custommaps\Art_TQX3\database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapSingle,
+bitmapNames,ingameui\quest\questprimary.tex;ingameui\controller\quest\questprimary.tex,
+bitmapPositionsX,0;0,
+bitmapPositionsY,0;0,

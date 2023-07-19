@@ -1,0 +1,6 @@
+templateName,database\templates\Skill_AttackProjectileDebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,attprojdebuf,
+buffSkillName,records\skills\boss skills\boareater_web_debuf.dbr,
+projectileLaunchNumber,1,
+projectileNames,records\effects\boss effects\boareater_weborb.dbr,

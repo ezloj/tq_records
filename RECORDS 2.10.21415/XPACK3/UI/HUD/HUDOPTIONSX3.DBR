@@ -1,0 +1,5 @@
+templateName,Database\templates\InGameUI\HudOptions.tpl,
+ActorName,tagVideoOption17=Advanced / tagMenuButton08=Default / tagDefaultMap=Titan Quest,
+FileDescription,drop-down menu,
+hudDescriptions,tagMenuButton08;tagDefaultMap,
+hudOptions,records\xpack\ui\hud\hud_new.dbr;records\xpack\ui\hud\hud.dbr,

@@ -1,0 +1,6 @@
+templateName,database\Templates\SkillAutoCastController.tpl,
+FileDescription,100% chance to cast on enemy when attacking,
+autoTargetRadius,10.000000,
+chanceToRun,100,
+targetType,Enemy,
+triggerType,AttackEnemy,

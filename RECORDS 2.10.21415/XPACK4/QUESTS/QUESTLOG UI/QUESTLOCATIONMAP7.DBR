@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\QuestMap.tpl,
+mapBitmap,records\xpack4\quests\questlog ui\questlocationmapbitmap7.dbr,
+mapMarkers,records\XPack4\Quests\QuestLog UI\ChinaQ1.dbr;records\xpack4\quests\questlog ui\chinaq2.dbr;records\xpack4\quests\questlog ui\chinaq3.dbr;records\xpack4\quests\questlog ui\chinaq4.dbr,
+positionX,15,
+positionY,79,

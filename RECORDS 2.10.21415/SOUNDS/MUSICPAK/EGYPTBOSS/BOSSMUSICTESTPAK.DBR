@@ -1,0 +1,8 @@
+templateName,database\Templates\BossMusicPak.tpl,
+BossDeathMusic,Music\Egypt\Event Music\EgyTelkineDeath.mp3,
+Class,BossMusicSession,
+EndXFadeMS,500,
+IntroMusic,Music\Bosses\EgyptTelkineIntro.mp3,
+LeaveFadeMS,4000,
+LoopMusic,Music\Bosses\EgyptTelkineMainLoop.wav,
+PlayerDeathMusic,Music\Bosses\GreekTelkineIntro.mp3,

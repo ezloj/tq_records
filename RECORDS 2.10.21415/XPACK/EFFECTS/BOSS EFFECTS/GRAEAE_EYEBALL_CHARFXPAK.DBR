@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+meshEffectNames,Records\XPack\Effects\Meshes\SkillEffects\BossSkillFX\Graeae_Eye_FXMesh.dbr,
+particleEffectAttachPoints,Eye,
+particleEffectNames,records\xpack\effects\particles\skilleffects\bossskillfx\graeae_eyeglowfx.dbr,

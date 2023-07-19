@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemLevelEquation.tpl,
+FileDescription,Normal Egypt - 014-015,
+levelEquation,((averagePlayerLevel*1)/2.05)-9,

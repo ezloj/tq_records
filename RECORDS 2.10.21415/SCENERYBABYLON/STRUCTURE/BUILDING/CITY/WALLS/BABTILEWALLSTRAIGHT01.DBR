@@ -1,0 +1,7 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,BabTileWallStraight01,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+mesh,SceneryBabylon\Structure\Building\City\Walls\BabTileWallStraight01.msh,
+scale,1.000000,

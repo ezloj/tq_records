@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\ButtonHidden.tpl,
+bitmapPositionX,394,
+bitmapPositionY,30,
+buttonXSize,60,
+buttonYSize,25,
+isCircular,0,
+soundNameDown,Records\Sounds\SoundPak\UI\TabClickPak.dbr,

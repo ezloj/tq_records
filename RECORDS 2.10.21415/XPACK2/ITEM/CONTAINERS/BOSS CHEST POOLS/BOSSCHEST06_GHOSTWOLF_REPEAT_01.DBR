@@ -1,0 +1,4 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records\xpack2\item\containers\boss containers\bosschest06_ghostwolf_repeat_01.dbr,

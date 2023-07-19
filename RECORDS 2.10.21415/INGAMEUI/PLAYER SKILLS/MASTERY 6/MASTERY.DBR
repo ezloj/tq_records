@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\SkillButton.tpl,
+FileDescription,Hunting Mastery,
+bitmapPositionX,29,
+bitmapPositionY,459,
+isCircular,1,
+skillName,Records\Skills\Hunting\HuntingMastery.dbr,
+soundNameDown,Records\Sounds\SoundPak\UI\AddSkillPointPak.dbr,

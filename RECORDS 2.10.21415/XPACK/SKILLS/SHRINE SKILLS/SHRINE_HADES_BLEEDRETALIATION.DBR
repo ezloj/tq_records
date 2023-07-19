@@ -1,0 +1,5 @@
+templateName,database\Templates\FixedItemSkill_Buff.tpl,
+Class,FixedItemSkill_Buff,
+buffSkillName,Records\XPack\Skills\Shrine Skills\Shrine_Hades_BleedRetaliationBuff.dbr,
+skillActiveDuration,60.000000,
+targetRadius,5.000000,

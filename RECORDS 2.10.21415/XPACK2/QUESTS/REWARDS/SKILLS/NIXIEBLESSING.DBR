@@ -1,0 +1,7 @@
+templateName,Database\templates\fixeditemskill_buff.tpl,
+Class,FixedItemSkill_Buff,
+FileDescription,FixedItemSkill_Buff,
+buffSkillName,records\xpack2\quests\rewards\skills\nixieblessing_buff.dbr,
+skillActivateFxPak,records\xpack2\quests\rewards\skills\effects\nixieblessingcast_fxpak.dbr,
+skillActiveDuration,300.000000,
+targetRadius,15.000000,

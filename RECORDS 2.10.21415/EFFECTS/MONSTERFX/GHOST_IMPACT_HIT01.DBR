@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Ghost_Impact_Hit,
+Class,EffectEntity,
+effectFile,Effects\MonsterFX\Ghost_Impact_Hit01.pfx,

@@ -1,0 +1,7 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,10,
+fixedItemName1,Records\Item\Containers\Egypt\Chest_Legendary_03A.dbr,
+fixedItemName2,Records\Item\Containers\Egypt\Chest_Legendary_03B.dbr,
+fixedItemWeight1,80,
+fixedItemWeight2,20,

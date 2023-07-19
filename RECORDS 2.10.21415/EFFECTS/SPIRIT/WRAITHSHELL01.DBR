@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Class,EffectEntity,
+effectFile,Effects\Spirit\WraithShell01.pfx,

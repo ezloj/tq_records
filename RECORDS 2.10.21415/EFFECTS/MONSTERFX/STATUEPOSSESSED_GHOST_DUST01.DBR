@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_StatuePossessed_Ghost_Dust01,
+Class,EffectEntity,
+effectFile,Effects\MonsterFX\StatuePossessed_Ghost_Dust01.pfx,

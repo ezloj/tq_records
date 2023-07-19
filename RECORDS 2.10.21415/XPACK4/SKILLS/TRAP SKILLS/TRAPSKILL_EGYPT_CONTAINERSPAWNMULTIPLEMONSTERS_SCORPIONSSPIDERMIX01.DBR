@@ -1,0 +1,6 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+FileDescription,Changed to Scarabs,
+monsterName,records\skills\boss skills\summoned minions\scarabaeus_minion_12.dbr;records\skills\boss skills\summoned minions\scarabaeus_minion_12.dbr;records\skills\boss skills\summoned minions\scarabaeus_minion_12.dbr;records\skills\boss skills\summoned minions\scarabaeus_minion_12.dbr;records\skills\boss skills\summoned minions\scarabaeus_minion_12.dbr;records\skills\boss skills\summoned minions\scarabaeus_minion_12.dbr,
+skillActivateFxPak,records\effects\monsterfx\skeleton_spawnfromground_fxpak01.dbr,
+skillWarningSound,records\Sounds\soundpak\decorations\sarcophagitrapspringpak.dbr,

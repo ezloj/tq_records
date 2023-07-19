@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.200000,
+cameraShakeDuration,0.500000,
+disturbanceRadius,3.000000,
+particleEffectNames,Records/XPack3/Effects/MonsterFX/AncientOne_waterexplosion.dbr,

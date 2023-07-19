@@ -1,0 +1,5 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,records\xpack4\creatures\monster\mummy\as_mummy_81.dbr;records\xpack4\creatures\monster\ghosts\bm_wraith_81.dbr;records\xpack4\creatures\monster\ghosts\bm_wraith_81.dbr,
+skillActivateFxPak,records\effects\spirit\343_deathnova_fxpak01.dbr,
+skillWarningSound,records\Sounds\soundpak\decorations\sarcophagitrapspringpak.dbr,

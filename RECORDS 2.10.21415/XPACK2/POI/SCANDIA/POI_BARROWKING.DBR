@@ -1,0 +1,8 @@
+templateName,database\Templates\AreaOfInterest.tpl,
+AreaDescription,x2TagPOIBarrowKing,
+Class,AreaOfInterest,
+actorHeight,0.000000,
+actorRadius,0.000000,
+baseTexture,System\Textures\White.tex,
+mesh,Items\Miscellaneous\SoundObject01.msh,
+scale,1.000000,

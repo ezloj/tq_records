@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Lights\25mLight_Stat_Red.pfx,

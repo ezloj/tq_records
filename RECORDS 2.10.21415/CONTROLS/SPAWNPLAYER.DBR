@@ -1,0 +1,8 @@
+templateName,database\Templates\PlayerSpawnPoint.tpl,
+ActorName,Greece_Controls_SpawnPlayer,
+Class,PlayerSpawnPoint,
+actorHeight,1.500000,
+actorRadius,0.500000,
+description,Greek Hero,
+mesh,Creatures\PC\Female\FemalePC01.msh,
+scale,1.000000,

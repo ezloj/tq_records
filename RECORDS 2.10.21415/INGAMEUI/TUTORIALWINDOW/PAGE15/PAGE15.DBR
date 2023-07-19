@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Level Up,
+NuggetArray,Records\InGameUI\TutorialWindow\Page15\P15N1.dbr;Records\InGameUI\TutorialWindow\Page15\P15N2.dbr;Records\InGameUI\TutorialWindow\Page15\P15N3.dbr;Records\InGameUI\TutorialWindow\Page15\P15N4.dbr;Records\InGameUI\TutorialWindow\Page15\P15N5.dbr;Records\InGameUI\TutorialWindow\Page15\P15N6.dbr;Records\InGameUI\TutorialWindow\Page15\P15N7.dbr,

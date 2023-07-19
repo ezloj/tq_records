@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Use Potions,
+NuggetArray,Records\InGameUI\TutorialWindow\Page31\P31N1.dbr;Records\InGameUI\TutorialWindow\Page31\P31N2.dbr;Records\InGameUI\TutorialWindow\Page31\P31N3.dbr,

@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,0.400000,
+disturbanceRadius,5.000000,
+particleEffectNames,Records\Effects\Spirit\343_Outsider_Summon_FX01.dbr,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_AttackBuffRadius.tpl,
+Class,Skill_AttackBuffRadius,
+FileDescription,Stuns and Disrupts player for 6 seconds + phys dmg,
+buffSkillName,Records\Skills\Boss Skills\Typhon_EarthenBarrierBuff.dbr,

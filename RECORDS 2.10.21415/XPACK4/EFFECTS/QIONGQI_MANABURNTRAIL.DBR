@@ -1,0 +1,6 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack4\effects\manaburn_trail.pfx,
+localOrientFix,0,

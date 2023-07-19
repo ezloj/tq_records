@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\CharacterScreen\StatsBar01.tex,
+bitmapPositionX,9,
+bitmapPositionY,64,

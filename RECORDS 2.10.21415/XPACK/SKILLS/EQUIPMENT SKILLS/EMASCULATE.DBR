@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_AttackBuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,single target duration damage/atk spd reduction,
+buffSkillName,Records\XPack\Skills\Equipment Skills\Emasculate_Buff.dbr,

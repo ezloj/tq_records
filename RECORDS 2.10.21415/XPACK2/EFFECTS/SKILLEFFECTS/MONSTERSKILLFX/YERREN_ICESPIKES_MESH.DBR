@@ -1,0 +1,8 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,XPack2\effects\meshes\anm\yerren_icespikes_activate.anm,
+disturbanceRadius,2.000000,
+fadeInTime,1.000000,
+fadeOutTime,3.000000,
+meshName,XPack2\effects\meshes\yerren_icespikemesh.msh,
+speed,1.000000,

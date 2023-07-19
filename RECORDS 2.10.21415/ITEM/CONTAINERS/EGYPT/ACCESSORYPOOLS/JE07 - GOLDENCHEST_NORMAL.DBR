@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Item\Containers\Egypt\JE07 - GoldenChest_Normal_02.dbr,
+fixedItemWeight1,50,

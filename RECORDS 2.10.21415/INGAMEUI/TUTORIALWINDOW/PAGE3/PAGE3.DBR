@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Quest Log,
+NuggetArray,Records\InGameUI\TutorialWindow\Page3\P3N1.dbr;Records\InGameUI\TutorialWindow\Page3\P3N2.dbr;Records\InGameUI\TutorialWindow\Page3\P3N3.dbr;Records\InGameUI\TutorialWindow\Page3\P3N4.dbr;Records\InGameUI\TutorialWindow\Page3\P3N5.dbr,

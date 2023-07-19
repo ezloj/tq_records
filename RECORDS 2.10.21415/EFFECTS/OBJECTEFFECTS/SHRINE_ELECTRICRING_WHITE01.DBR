@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\ObjectEffects\ShrineElectricRing_White01.pfx,

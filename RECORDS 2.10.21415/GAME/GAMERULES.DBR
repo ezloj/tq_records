@@ -1,0 +1,7 @@
+templateName,database\Templates\GameRules.tpl,
+experienceSharingActiveMember,amountOfExperience / (1+ ((numberOfPartyMembers - 1) / 10)),
+experienceSharingPassiveMembers,amountOfExperience / (1+ ((numberOfPartyMembers - 1) / 10)),
+goldSharingActiveMember,(1/numberOfPartyMembers)*amountOfGold,
+goldSharingPassiveMembers,(1/(numberOfPartyMembers-1))*amountOfGold,
+mapBindings,Records\Game\Map Game Rule Bindings\PVP01_GameRules.dbr,
+questEventSound,Records\Sounds\SoundPak\UI\QuestCompletePak.dbr,

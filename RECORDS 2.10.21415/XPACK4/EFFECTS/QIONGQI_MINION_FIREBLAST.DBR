@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,Used in QiongQiCub_FlamingMunition skill,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack4\effects\quiongqi_tiger_minion_fireblast01.pfx,
+localOrientFix,0,

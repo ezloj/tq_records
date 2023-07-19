@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records\XPack4\Skills\Neidan\auraoftranquility_buff.dbr,
+instantCast,0,

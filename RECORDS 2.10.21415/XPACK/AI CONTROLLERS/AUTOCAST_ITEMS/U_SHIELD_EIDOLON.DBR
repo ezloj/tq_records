@@ -1,0 +1,6 @@
+templateName,database\Templates\SkillAutoCastController.tpl,
+FileDescription,2% at Self on Taking Any Damage,
+autoTargetRadius,3.000000,
+chanceToRun,2,
+targetType,Self,
+triggerType,HitByEnemy,

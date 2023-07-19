@@ -1,0 +1,8 @@
+templateName,database\Templates\ProxyLimits.tpl,
+FileDescription,~Wusao,
+maxPlayerLevelEquationEpic,57*1,
+maxPlayerLevelEquationLegendary,80*1,
+maxPlayerLevelEquationNormal,32*1,
+minPlayerLevelEquationEpic,47*1,
+minPlayerLevelEquationLegendary,71*1,
+minPlayerLevelEquationNormal,27*1,

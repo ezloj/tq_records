@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemLevelEquation.tpl,
+FileDescription,Epic Greece - 007-008,
+levelEquation,((averagePlayerLevel*1)/2.05)-18,

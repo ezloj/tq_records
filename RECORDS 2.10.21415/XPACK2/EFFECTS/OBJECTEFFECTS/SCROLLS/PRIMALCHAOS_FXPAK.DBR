@@ -1,0 +1,5 @@
+templateName,Database\templates\charfxpak.tpl,
+colorBlue,0.600000,
+colorRed,0.400000,
+particleEffectNames,records\xpack2\effects\objecteffects\scrolls\primalchaos_fx.dbr,
+useTintColor,1,

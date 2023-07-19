@@ -1,0 +1,3 @@
+templateName,database\Templates\FixedItemLevelEquation.tpl,
+FileDescription,Normal Egypt - 8 tables,
+levelEquation,((maxPlayerLevel*1)-11)/1.875,

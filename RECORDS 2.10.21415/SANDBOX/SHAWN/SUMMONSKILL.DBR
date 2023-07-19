@@ -1,0 +1,4 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,Records\SandBox\Shawn\SummonedMonster.dbr,
+timeToLive,20.000000,

@@ -1,0 +1,5 @@
+templateName,Database\templates\proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records\xpack2\item\containers\boss containers\bosschest17_fafnir_03.dbr,
+fixedItemWeight1,100,

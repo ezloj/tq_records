@@ -1,0 +1,7 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+fadeInTime,0.500000,
+fadeOutTime,0.500000,
+meshName,XPack2\effects\meshes\QuillVineEntangleMesh.msh,
+speed,0.500000,
+sustainTime,1.000000,

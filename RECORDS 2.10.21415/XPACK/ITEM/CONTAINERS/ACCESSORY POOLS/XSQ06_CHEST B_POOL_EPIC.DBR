@@ -1,0 +1,6 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records\xpack\item\containers\xsq06_chest b_epic.dbr,
+fixedItemWeight1,100,
+fixedItemWeight2,0,

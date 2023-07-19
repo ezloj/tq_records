@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+meshEffectNames,Records\Creature\NPC\Speaking\Story\ZeusRaysFXMesh.dbr,
+particleEffectNames,Records\Creature\NPC\Speaking\Story\ZeusRaysFX.dbr,

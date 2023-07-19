@@ -1,0 +1,6 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_Head,
+effectFile,Effects\projectiles\343_stafflife_uber_flight.pfx,
+localOrientFix,0,

@@ -1,0 +1,8 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+FileDescription,big,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\earthfissure.dbr,
+particleEffectNames,Records\Effects\MonsterFX\RadiusAttacks\EarthFury_FX01.dbr,

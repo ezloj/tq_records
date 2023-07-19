@@ -1,0 +1,6 @@
+templateName,database\Templates\EventMusicPak.tpl,
+AmbientFadeTime,1.000000,
+Class,EventMusicSession,
+delayTime,5,
+eventMusicName,Music\Orient\Event Music\OrtTyphonEncounterTheme.mp3,
+volume,0.800000,

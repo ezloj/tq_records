@@ -1,0 +1,6 @@
+templateName,database\Templates\EventMusicPak.tpl,
+AmbientFadeTime,2.000000,
+Class,EventMusicSession,
+delayTime,10,
+eventMusicName,Music\XPack\Event\Hades\mus_event_savingpersephone.mp3,
+volume,0.850000,

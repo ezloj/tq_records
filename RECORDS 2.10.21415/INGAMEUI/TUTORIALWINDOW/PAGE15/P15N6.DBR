@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\UITutoriaNugget.tpl,
+FileDescription,Image,
+Image,InGameUI\Tutorial\Tutorial Images\Tutorial_Character.tex,
+TextCentering,0,
+TopSpacing,8,

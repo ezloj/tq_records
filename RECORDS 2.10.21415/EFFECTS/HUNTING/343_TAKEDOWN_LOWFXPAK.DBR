@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Class,FxPak,
+particleEffectNames,Records\Effects\Hunting\343_TakeDown_Low_FX.dbr,

@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\ButtonHidden.tpl,
+bitmapPositionX,17,
+bitmapPositionY,76,
+buttonXSize,32,
+buttonYSize,30,
+isCircular,0,
+soundNameDown,Records\Sounds\SoundPak\UI\GenericClickSmallPak.dbr,

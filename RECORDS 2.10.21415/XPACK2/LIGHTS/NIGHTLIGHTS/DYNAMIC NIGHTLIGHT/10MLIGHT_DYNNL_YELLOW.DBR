@@ -1,0 +1,7 @@
+templateName,database\Templates\Engine\NightLight.tpl,
+Class,NightLight,
+castsShadows,1,
+color.b,0.500000,
+color.g,0.900000,
+color.r,1.000000,
+radius,10.000000,

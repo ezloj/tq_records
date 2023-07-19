@@ -1,0 +1,4 @@
+templateName,database\Templates\LootRandomizerTable.tpl,
+Class,LootRandomizerTable,
+randomizerName1,records\XPack4\Item\LootMagicalAffixes\Broken\Broken_Shields_01.dbr,
+randomizerWeight1,100,

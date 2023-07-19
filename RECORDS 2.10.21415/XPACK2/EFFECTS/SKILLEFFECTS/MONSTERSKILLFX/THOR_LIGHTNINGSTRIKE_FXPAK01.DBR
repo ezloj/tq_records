@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,Records\XPack2\Effects\skilleffects\MonsterSkillFX\Thor_LightningStrike_mesh01.dbr,
+particleEffectNames,Records\XPack2\Effects\skilleffects\MonsterSkillFX\Thor_LightningStrike_fx01.dbr,

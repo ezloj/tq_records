@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,Used in QiongQi_FireBreath and TheSuns_CelestialFire,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack4\effects\fire_elemental_fire_rush.pfx,
+localOrientFix,0,

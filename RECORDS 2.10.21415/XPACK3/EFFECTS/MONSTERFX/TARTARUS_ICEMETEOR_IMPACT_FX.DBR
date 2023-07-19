@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,XPack2\effects\particles\skilleffects\monsterskillfx\icewallbreak01.pfx,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack3\effects\monsterfx\tartarus_icemeteor_impact.pfx,
+localOrientFix,1,

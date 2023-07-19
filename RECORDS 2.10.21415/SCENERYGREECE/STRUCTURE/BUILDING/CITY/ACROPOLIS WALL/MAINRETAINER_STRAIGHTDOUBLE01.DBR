@@ -1,0 +1,8 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,MainRetainer_StraightDouble01,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+description,MainRetainer_StraightDouble01,
+mesh,SceneryGreece\Structure\Building\City\Acropolis Wall\MainRetainer_StraightDouble01.msh,
+scale,1.000000,

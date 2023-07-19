@@ -1,0 +1,5 @@
+templateName,database\Templates\UIDialogManager.tpl,
+Background,InGameUI\Prompt\PromptWindow01.tex,
+NoButton,Records\InGameUI\DialogNoButton.dbr,
+OkButton,Records\InGameUI\DialogOkButton.dbr,
+YesButton,Records\InGameUI\DialogYesButton.dbr,

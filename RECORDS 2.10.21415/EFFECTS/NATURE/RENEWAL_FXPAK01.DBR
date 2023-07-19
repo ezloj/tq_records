@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+meshEffectNames,Records\Effects\Nature\Renewal_Vertical_Blast01.dbr,
+particleEffectNames,Records\Effects\Nature\Renewal_Sparks01.dbr,

@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\TextString.tpl,
+FileDescription,TextString,
+textAlignmentX,Left,
+textAlignmentY,Top,
+textBoxX,90,
+textBoxXSize,0,
+textBoxY,397,
+textBoxYSize,0,

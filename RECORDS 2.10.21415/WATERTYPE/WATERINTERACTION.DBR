@@ -1,0 +1,4 @@
+templateName,database\Templates\WaterInteraction.tpl,
+BodySplashEffect,Records/Effects/EnvironmentFX/Water_SplashMedium01.dbr,
+ObjectSplashEffect,Records/Effects/EnvironmentFX/Water_SplashMedium01.dbr,
+WakeSplashEffect,Records/Effects/EnvironmentFX/PC_RunningThroughWaterSplash01.dbr,

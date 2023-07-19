@@ -1,0 +1,8 @@
+templateName,database\Templates\Decal.tpl,
+Class,Decal,
+beginFadeSeconds,5.000000,
+endFadeSeconds,10.000000,
+maxNumberOfThisType,100,
+opacity,1.000000,
+shader,Shaders\Effects\DecalCombine.ssh,
+size,5.000000,

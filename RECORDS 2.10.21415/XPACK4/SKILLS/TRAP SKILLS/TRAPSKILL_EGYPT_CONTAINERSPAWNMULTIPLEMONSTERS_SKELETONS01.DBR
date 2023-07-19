@@ -1,0 +1,5 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,records\XPack4\creatures\monster\Skeleton\BM_Skeleton_80.dbr;records\XPack4\creatures\monster\Skeleton\BM_Skeleton_80.dbr;records\XPack4\creatures\monster\Skeleton\BM_Skeleton_80.dbr;records\xpack4\creatures\monster\skeleton\zchamp_br_skeleton_sharpshooter_81.dbr,
+skillActivateFxPak,records\effects\monsterfx\skeleton_spawnfromground_fxpak01.dbr,
+skillWarningSound,records\Sounds\soundpak\decorations\sarcophagitrapspringpak.dbr,

@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Enchanters,
+NuggetArray,records\xpack\ui\tutorial\page3\p3n1.dbr;records\xpack\ui\tutorial\page3\p3n2.dbr;records\xpack\ui\tutorial\page3\p3n3.dbr;records\xpack\ui\tutorial\page3\p3n4.dbr;records\xpack\ui\tutorial\page3\p3n5.dbr;records\xpack\ui\tutorial\page3\p3n6.dbr,

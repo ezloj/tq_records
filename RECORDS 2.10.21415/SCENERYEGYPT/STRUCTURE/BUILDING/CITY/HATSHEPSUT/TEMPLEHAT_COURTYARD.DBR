@@ -1,0 +1,6 @@
+templateName,database\Templates\Engine\GridEntrance.tpl,
+Class,GridEntrance,
+actorHeight,0.000000,
+actorRadius,0.000000,
+mesh,SceneryEgypt\Structure\Building\City\Hatshepsut\TempleHat_Courtyard.msh,
+scale,1.000000,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffOther.tpl,
+ActorName,NatureMastery_Renewal,
+Class,Skill_BuffOther,
+buffSkillName,Records\Skills\Spirit\EnergyTransferBuff.dbr,

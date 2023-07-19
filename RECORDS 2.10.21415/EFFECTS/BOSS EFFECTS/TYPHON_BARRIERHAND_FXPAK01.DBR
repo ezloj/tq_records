@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+meshEffectNames,Records\Effects\Boss Effects\Typhon_BarrierHand_FXMesh.dbr,
+particleEffectNames,Records\Effects\Boss Effects\Typhon_BarrierHand_Summon_FX.dbr,

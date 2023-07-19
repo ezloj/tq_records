@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\TextBoxMeasureable.tpl,
+fontStyle,Records\UI\FontStyles\QuestDialog.dbr,
+positionX,2,
+positionY,2,
+textBoxHeight,-1,
+textBoxWidth,260,

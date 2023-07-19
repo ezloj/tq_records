@@ -1,0 +1,6 @@
+templateName,database\Templates\DecalType.tpl,
+Class,DecalType,
+height,2.000000,
+shader,Shaders\Effects\DecalFilter.ssh,
+texture,XPack\Effects\Decals\BurnMark.tex,
+width,2.000000,

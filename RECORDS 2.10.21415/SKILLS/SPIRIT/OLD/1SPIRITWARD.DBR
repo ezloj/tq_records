@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+ActorName,DefensiveMastery_ArmorTraining,
+Class,Skill_BuffRadius,
+buffSkillName,Records\Skills\Spirit\SpiritWardBuff.dbr,

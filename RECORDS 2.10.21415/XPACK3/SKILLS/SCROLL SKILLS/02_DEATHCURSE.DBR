@@ -1,0 +1,4 @@
+templateName,Database\templates\Skill_AttackBuffRadius.tpl,
+Class,Skill_AttackBuffRadius,
+FileDescription,Slow Decay,
+buffSkillName,records\xpack3\skills\scroll skills\02_deathcurse_debuff.dbr,

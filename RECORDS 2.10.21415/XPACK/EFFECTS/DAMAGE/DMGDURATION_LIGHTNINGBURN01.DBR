@@ -1,0 +1,5 @@
+templateName,database\Templates\CharFxPak.tpl,
+particleEffectAttachPoints,HeadEffect,
+particleEffectNames,records\xpack\effects\particles\dmgduration_lightningfx_litefx.dbr,
+startSound,Records\sounds\soundpak\spells\storm\electricburstpak.dbr,
+useTintColor,0,

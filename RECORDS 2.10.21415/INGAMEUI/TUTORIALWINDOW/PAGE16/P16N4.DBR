@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\UITutoriaNuggetPlus.tpl,
+FileDescription,Text,
+TextCentering,0,
+TextStyle,Records\UI\FontStyles\TutorialContent.dbr,
+TextTag,tagTutorialTip16TextB,
+TopSpacing,1,
+keyOperation,DropItem,

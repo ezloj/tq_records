@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.500000,
+disturbanceRadius,6.000000,
+particleEffectNames,Records\XPack2\Effects\skilleffects\RuneSkillFX\GuardianStoneSpawn01.dbr,

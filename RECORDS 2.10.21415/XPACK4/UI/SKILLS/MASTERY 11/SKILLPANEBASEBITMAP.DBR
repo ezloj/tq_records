@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapUIAware,
+bitmapNames,XPack4\InGameUI\Skills\AlchemySkillBackground01.tex;XPack4\InGameUI\controller\Skills\AlchemySkillBackground01.tex,
+bitmapPositionsX,0;0,
+bitmapPositionsY,0;0,

@@ -1,0 +1,4 @@
+templateName,database\Templates\FixedItemSkill_Buff.tpl,
+Class,FixedItemSkill_Buff,
+skillActiveDuration,45.000000,
+targetRadius,5.000000,

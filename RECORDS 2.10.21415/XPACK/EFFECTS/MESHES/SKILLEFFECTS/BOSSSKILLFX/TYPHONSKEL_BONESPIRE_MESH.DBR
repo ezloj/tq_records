@@ -1,0 +1,8 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,XPack\Effects\Meshes\SkillEffects\BossSkillFX\ANM\TyphonSkel_BoneSpire_Activate.anm,
+disturbanceRadius,2.000000,
+fadeInTime,1.000000,
+fadeOutTime,3.000000,
+meshName,XPack\Effects\Meshes\SkillEffects\BossSkillFX\TyphonSkel_BoneSpire.msh,
+speed,1.000000,

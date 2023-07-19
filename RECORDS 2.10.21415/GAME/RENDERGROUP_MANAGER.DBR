@@ -1,0 +1,4 @@
+templateName,database\Templates\RenderGroupManager.tpl,
+Class,RenderGroupManager,
+actorRadius,0.000000,
+description,cliff,

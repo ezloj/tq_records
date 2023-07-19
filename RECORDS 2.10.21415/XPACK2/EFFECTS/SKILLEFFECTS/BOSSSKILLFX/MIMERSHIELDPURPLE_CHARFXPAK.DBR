@@ -1,0 +1,6 @@
+templateName,database\Templates\CharFxPak.tpl,
+colorBlue,1.000000,
+colorGreen,0.000000,
+colorRed,1.000000,
+particleEffectNames,records\xpack2\effects\skilleffects\bossskillfx\mimershieldpurple.dbr,
+useTintColor,1,

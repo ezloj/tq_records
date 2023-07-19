@@ -1,0 +1,4 @@
+templateName,database\Templates\TeamRespawnPoint.tpl,
+Class,TeamRespawnPoint,
+DisplayName,Creature Spawn Point (Red),
+Team,Red,

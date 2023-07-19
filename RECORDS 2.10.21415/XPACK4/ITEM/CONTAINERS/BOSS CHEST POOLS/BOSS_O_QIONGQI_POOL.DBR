@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+FileDescription,LegendaryLootPool,
+fixedItemChance,100,
+fixedItemName1,records\xpack4\item\containers\boss containers\boss_o_qiongqi.dbr,

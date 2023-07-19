@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records\xpack2\skills\monster skills\attack_radius\quillvine_rootaura_debuff.dbr,
+instantCast,1,

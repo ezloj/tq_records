@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Powerful Enemies,
+NuggetArray,Records\InGameUI\TutorialWindow\Page13\P13N1.dbr;Records\InGameUI\TutorialWindow\Page13\P13N2.dbr,

@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\WorldMapInstance.tpl,
+containedZones,Records\InGameUI\Mini Map\Zones\Egypt\Abedju.dbr;Records\InGameUI\Mini Map\Zones\Egypt\Giza.dbr;Records\InGameUI\Mini Map\Zones\Egypt\Memphis.dbr;Records\InGameUI\Mini Map\Zones\Egypt\Oasis.dbr;Records\InGameUI\Mini Map\Zones\Egypt\Rhakotis.dbr;Records\InGameUI\Mini Map\Zones\Egypt\Thebes.dbr;Records\InGameUI\Mini Map\Zones\Egypt\ValleyOfTheKings.dbr,
+mapImage,InGameUI\Map\worldMap2.tex,
+mapPaneX,337,
+mapPaneY,107,
+overlayImage,Records\InGameUI\Mini Map\MiniMapOverlayBitmap.dbr,

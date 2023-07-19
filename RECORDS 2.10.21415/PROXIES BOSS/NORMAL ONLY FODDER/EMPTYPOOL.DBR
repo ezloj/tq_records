@@ -1,0 +1,7 @@
+templateName,database\Templates\ProxyPool.tpl,
+championChance,0.000000,
+championMax,0,
+championMin,0,
+proxyPoolEquation,Records\Proxies Egypt\ProxyPoolEquation_01.dbr,
+spawnMax,0,
+spawnMin,0,

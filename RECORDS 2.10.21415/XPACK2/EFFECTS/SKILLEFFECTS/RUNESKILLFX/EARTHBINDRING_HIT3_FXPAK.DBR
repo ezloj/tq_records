@@ -1,0 +1,8 @@
+templateName,Database\templates\fxpak.tpl,
+Class,FxPak,
+activateSound,records\xpack2\sounds\soundpak\player skills\earthbind_spreadpak.dbr,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,Records\XPack2\Effects\Meshes\Earthbind_trapped_mesh.dbr,
+particleEffectNames,records\xpack2\effects\skilleffects\runeskillfx\earthbindring_hit3_fx.dbr,

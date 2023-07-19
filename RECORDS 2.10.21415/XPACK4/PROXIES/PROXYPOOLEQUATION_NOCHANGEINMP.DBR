@@ -1,0 +1,6 @@
+templateName,database\Templates\ProxyPoolEquation.tpl,
+FileDescription,From Ragnarok - must change,
+championMaxEquation,poolValue * 1,
+championMinEquation,poolValue * 1,
+spawnMaxEquation,poolValue * 1,
+spawnMinEquation,poolValue * 1,

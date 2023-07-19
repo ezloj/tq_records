@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+meshEffectNames,Records\SandBox\blabore\MeshFxDemo.dbr,
+particleEffectNames,Records\Effects\Projectiles\LightningShotImpact_FX01.dbr,

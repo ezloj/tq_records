@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\ButtonStatic.tpl,
+bitmapNameDown,InGameUI\CharacterScreen\StatIncrementButtonDown01.tex,
+bitmapNameInFocus,InGameUI\CharacterScreen\StatIncrementButtonOver01.tex,
+bitmapNameUp,InGameUI\CharacterScreen\StatIncrementButtonUp01.tex,
+bitmapPositionX,15,
+bitmapPositionY,92,
+isCircular,0,
+soundNameDown,Records\Sounds\SoundPak\UI\GenericClickTinyPak.dbr,

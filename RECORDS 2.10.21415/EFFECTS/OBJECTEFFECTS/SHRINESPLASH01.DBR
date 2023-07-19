@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Shrine_Splash01,
+Class,EffectEntity,
+effectFile,Effects\ObjectEffects\ShrineSplash01.pfx,

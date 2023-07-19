@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,1.000000,
+cameraShakeDuration,0.800000,
+disturbanceRadius,15.000000,
+particleEffectNames,records\xpack\effects\particles\skilleffects\bossskillfx\hades_expandingringfx.dbr,

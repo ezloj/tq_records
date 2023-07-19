@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Fire_EarthPet_Core02,
+Class,EffectEntity,
+effectFile,Effects\MonsterFX\ShadowStalker_Smoke01.pfx,

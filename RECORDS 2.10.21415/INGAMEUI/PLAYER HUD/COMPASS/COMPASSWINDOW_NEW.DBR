@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\HudCompass.tpl,
+FileDescription,HudCompass LOCATION - button and text only,
+windowDefaultExtentX,333,
+windowDefaultExtentY,205,
+windowDefaultX,0,
+windowDefaultY,0,
+windowScreenAlignmentX,Right,
+windowScreenAlignmentY,Top,

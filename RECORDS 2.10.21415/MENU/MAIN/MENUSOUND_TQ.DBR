@@ -1,0 +1,7 @@
+templateName,Database\templates\MenuSound.tpl,
+Class,MenuSound,
+ambientSound,Sounds\ambience\maintitlescreen\looptitlescreen.wav,
+introMusic,Music\main title\maintitle_entry.mp3,
+loopingCreditsMusic,Music\credits\tq_credits.mp3,
+loopingMusic,Music\main title\maintitle_loop.mp3,
+rockingCreditsMusic,Music\credits\tq_rock.mp3,

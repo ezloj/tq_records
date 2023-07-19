@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+effectFile,Effects\WeaponEnchantments\343_Weapon_Cold.pfx,

@@ -1,0 +1,4 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+meshEffectNames,Records\Effects\MonsterFX\Telkine_Death_VerticalBlast01.dbr,
+particleEffectNames,Records\Effects\MonsterFX\Telkine_Death_Implode01.dbr,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffOther.tpl,
+ActorName,HuntingMastery_Sprint,
+Class,Skill_BuffOther,
+buffSkillName,Records\XPack\Skills\Scroll Skills\Pets\02X_Djinni_Enhancement_Buff.dbr,

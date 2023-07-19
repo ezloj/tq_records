@@ -1,0 +1,7 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,unused,
+colorGreen,0.800000,
+colorRed,1.000000,
+particleEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\fireimp_shackles_fx.dbr,
+startSound,records\sounds\soundpak\monstersgreek\taloschainswingpak.dbr,
+useTintColor,1,

@@ -1,0 +1,8 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+activateSound,records\sounds\soundpak\armor\boneimpactpak.dbr,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,0.100000,
+disturbanceRadius,0.000000,
+meshEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\yerren_icespikes_mesh.dbr,
+particleEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\yerren_icespikes_spawnfx.dbr,

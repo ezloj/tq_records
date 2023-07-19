@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,2nd Mastery,
+NuggetArray,Records\InGameUI\TutorialWindow\Page21\P21N1.dbr;Records\InGameUI\TutorialWindow\Page21\P21N2.dbr,

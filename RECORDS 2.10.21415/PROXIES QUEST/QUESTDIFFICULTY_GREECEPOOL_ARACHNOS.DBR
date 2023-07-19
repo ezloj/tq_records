@@ -1,0 +1,4 @@
+templateName,database\Templates\ProxyEquation.tpl,
+championDifficultyEquation,availableChampionDifficulty * .4,
+characterDifficultyEquation,characterLevel * 1,
+difficultyEquation,(averagePlayerLevel * 2) * (1 + (numberOfPlayers / 10)),

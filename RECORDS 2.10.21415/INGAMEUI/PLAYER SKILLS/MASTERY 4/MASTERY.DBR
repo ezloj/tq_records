@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\SkillButton.tpl,
+FileDescription,Storm Mastery,
+bitmapPositionX,29,
+bitmapPositionY,459,
+isCircular,1,
+skillName,Records\Skills\Storm\StormMastery.dbr,
+soundNameDown,Records\Sounds\SoundPak\UI\AddSkillPointPak.dbr,

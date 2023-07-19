@@ -1,0 +1,7 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+FileDescription,Spawns x4 Act 2 Hero Monsters,
+monsterName,records\creature\encounters\actors\hero_act2_hanifthecruel_31.dbr;records\creature\encounters\actors\hero_act2_menkaurathewise_28.dbr;records\creature\encounters\actors\hero_act2_nexeudoomedprophet_34.dbr;records\creature\encounters\actors\hero_act2_senusnetmal_37.dbr,
+skillActivateFxPak,records\XPack4\Effects\Akhenaten_SandRush_FxPak.dbr,
+skillActivateSound,records\xpack\sounds\soundpak\shrines\hadesteleportshrineactivate.dbr,
+skillWarningSound,records\Sounds\soundpak\decorations\sarcophagitrapspringpak.dbr,

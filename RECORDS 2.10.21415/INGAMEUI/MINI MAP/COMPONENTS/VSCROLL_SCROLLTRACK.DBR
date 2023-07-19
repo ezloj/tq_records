@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\ElasticWidget.tpl,
+firstEndTexture,InGameUI\quest\scrollbartopbackdrop.tex,
+lastEndTexture,InGameUI\quest\scrollbarbottombackdrop.tex,
+middleTexture,InGameUI\quest\scrollbarmiddlebackdrop.tex,
+positionX,0,
+positionY,0,

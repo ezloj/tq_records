@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\TextOneShot.tpl,
+CenterX,125,
+CenterY,10,
+Style,Records\UI\FontStyles\SmallTabText_White.dbr,

@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\CharacterScreen\Resistances\PoisonIcon01.tex,
+bitmapPositionX,164,
+bitmapPositionY,192,

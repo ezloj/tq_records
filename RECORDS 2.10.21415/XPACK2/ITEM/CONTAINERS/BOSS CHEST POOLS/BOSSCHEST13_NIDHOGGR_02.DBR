@@ -1,0 +1,4 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records\xpack2\item\containers\boss containers\bosschest13_nidhoggr_02.dbr,

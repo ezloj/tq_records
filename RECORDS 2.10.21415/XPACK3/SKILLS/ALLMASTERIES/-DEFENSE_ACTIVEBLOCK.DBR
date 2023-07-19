@@ -1,0 +1,5 @@
+templateName,Database\templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,mobile AoE,
+buffSkillName,records\xpack3\skills\allmasteries\defense_activeblockbuff_aoe.dbr,
+instantCast,1,

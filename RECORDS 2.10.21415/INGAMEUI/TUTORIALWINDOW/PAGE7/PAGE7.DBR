@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Rebirth Fountains,
+NuggetArray,Records\InGameUI\TutorialWindow\Page7\P7N1.dbr;Records\InGameUI\TutorialWindow\Page7\P7N2.dbr;Records\InGameUI\TutorialWindow\Page7\P7N4.dbr,

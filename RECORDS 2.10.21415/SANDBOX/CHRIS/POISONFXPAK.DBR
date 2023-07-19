@@ -1,0 +1,7 @@
+templateName,database\Templates\CharFxPak.tpl,
+colorBlue,0.500000,
+colorGreen,1.000000,
+colorRed,0.500000,
+particleEffectAttachPoints,Head,
+particleEffectNames,Records\Effects\Nature\BriarWard_Sanctuary01.dbr,
+useTintColor,1,

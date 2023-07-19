@@ -1,0 +1,6 @@
+templateName,database\Templates\CharFxPak.tpl,
+colorBlue,1.000000,
+colorGreen,0.000000,
+colorRed,0.300000,
+particleEffectNames,Records\Effects\Storm\343Freeze_FX01.dbr,
+useTintColor,1,

@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Hand,
+effectFile,XPack\Effects\particles\skilleffects\monsterskillfx\ascacophus_stumpstomp.pfx,
+emitterType,BoneList,
+localOrientFix,0,

@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,1.000000,
+cameraShakeDuration,5.000000,
+disturbanceRadius,7.000000,
+particleEffectNames,Records\XPack\Effects\Particles\SkillEffects\BossSkillFX\Charon_GroundPound_FX.dbr,

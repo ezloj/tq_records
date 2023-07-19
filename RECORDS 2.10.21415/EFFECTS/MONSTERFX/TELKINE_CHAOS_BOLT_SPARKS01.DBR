@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Telkine_Chaos_Bolt_Sparks,
+Class,EffectEntity,
+effectFile,Effects\MonsterFX\Telkine_Chaos_Bolt_Sparks01.pfx,

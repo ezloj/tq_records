@@ -1,0 +1,4 @@
+templateName,database\Templates\UnlockCode.tpl,
+Code,1337,
+FileDescription,Pieces Gear,
+Items,records\XPack2\item\equipmentarmor\greaves\pieces_greaves.dbr;records\XPack2\item\equipmentarmor\helm\pieces_helmet.dbr;records\XPack2\item\equipmentarmor\torso\pieces_torso.dbr;records\XPack2\item\equipmentweapons\1hRanged\pieces_axe_onehanded_ranged.dbr;records\XPack2\item\amulet\pieces_amulet.dbr;records\XPack2\item\equipmentarmor\bracers\pieces_bracers.dbr,

@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Multiplayer,
+NuggetArray,Records\InGameUI\TutorialWindow\Page27\P27N1.dbr;Records\InGameUI\TutorialWindow\Page27\P27N2.dbr;Records\InGameUI\TutorialWindow\Page27\P27N3.dbr;Records\InGameUI\TutorialWindow\Page27\P27N4.dbr;Records\InGameUI\TutorialWindow\Page27\P27N5.dbr;Records\InGameUI\TutorialWindow\Page27\P27N6.dbr;Records\InGameUI\TutorialWindow\Page27\P27N7.dbr;Records\InGameUI\TutorialWindow\Page27\P27N8.dbr,

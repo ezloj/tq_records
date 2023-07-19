@@ -1,0 +1,8 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects\storm\343_stormsurge.pfx,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,(Vince mod added),
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\storm\343_stormsurge.pfx,
+localOrientFix,0,

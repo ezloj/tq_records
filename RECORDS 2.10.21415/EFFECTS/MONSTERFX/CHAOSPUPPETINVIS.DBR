@@ -1,0 +1,8 @@
+templateName,database\Templates\Puppet.tpl,
+Class,Puppet,
+actorHeight,0.000000,
+actorRadius,0.000000,
+fadeInTime,0.500000,
+fadeOutTime,0.500000,
+mesh,Effects\Projectiles\ProjectileMesh01.msh,
+scale,1.000000,

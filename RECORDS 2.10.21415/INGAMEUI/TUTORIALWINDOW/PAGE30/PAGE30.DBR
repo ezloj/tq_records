@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Assign Your Skills,
+NuggetArray,Records\InGameUI\TutorialWindow\Page30\P30N1.dbr;Records\InGameUI\TutorialWindow\Page30\P30N2.dbr;Records\InGameUI\TutorialWindow\Page30\P30N3.dbr,

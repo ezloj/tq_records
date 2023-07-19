@@ -1,0 +1,6 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+FileDescription,forwards to actual chest,
+fixedItemChance,100,
+fixedItemName1,records\xpack2\quests\objects\z_actorschest.dbr,
+fixedItemWeight1,100,

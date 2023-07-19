@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,2.000000,
+particleEffectNames,Records\Effects\Stealth\FlashPowder_Flash_FX01.dbr,

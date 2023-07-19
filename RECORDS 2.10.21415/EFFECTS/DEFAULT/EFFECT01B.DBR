@@ -1,0 +1,3 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+particleEffectNames,Records\Effects\Default\Effect01B_FX01.dbr,

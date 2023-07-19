@@ -1,0 +1,7 @@
+templateName,Database\templates\fixeditemskill_buff.tpl,
+Class,FixedItemSkill_Buff,
+FileDescription,FixedItemSkill_Buff,
+buffSkillName,records\xpack2\quests\rewards\skills\lokiblessing_debuff.dbr,
+skillActivateSound,records\sounds\soundpak\spells\defense\colossalgrowthuncastpak.dbr,
+skillActiveDuration,30.000000,
+targetRadius,5.000000,

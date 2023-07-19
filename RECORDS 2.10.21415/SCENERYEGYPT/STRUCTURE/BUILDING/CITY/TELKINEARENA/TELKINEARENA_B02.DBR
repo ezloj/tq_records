@@ -1,0 +1,8 @@
+templateName,database\Templates\Tile.tpl,
+ActorName,TelkineArena_B02,
+Class,Tile,
+actorHeight,0.000000,
+actorRadius,0.000000,
+description,TelkineArena_B02,
+mesh,SceneryEgypt\Structure\Building\City\TelkineArena\TelkineArena_B02.msh,
+scale,1.000000,

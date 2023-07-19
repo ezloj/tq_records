@@ -1,0 +1,6 @@
+templateName,database\Templates\Skill_AttackProjectileDebuf.tpl,
+ActorName,Typhon_BonetrapGrenade,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,References PoseidonsNetBuff,
+buffSkillName,Records\XPack\Skills\ArtifactSkills\E_DA_PoseidonsNet_PoseidonsNetBuff.dbr,
+projectileNames,Records\XPack\Effects\Projectiles\PoseidonNet_Projectile.dbr,

@@ -1,0 +1,6 @@
+templateName,Custommaps\Art_TQX3\database\Templates\UI Templates\GamepadButtonMappingWindow.tpl,
+BackgroundImage,UI\controller\buttonmapping.tex,
+FontStyle,Records\UI\FontStyles\GamepadMappingLabel.dbr,
+Positions,700:210;700:237;700:156;345:40;406:311;90:76;700:76;90:19;700:19;90:209;90:155;90:180;700:266;700:293,
+RightAlign,1;1;1;0;0;0;1;0;1;0;0;0;1;1,
+Tags,tagGamepadMappingA;tagGamepadMappingAHold;tagGamepadMappingBXY;tagGamepadMappingStart;tagGamepadMappingSelect;tagGamepadMappingLB;tagGamepadMappingRB;tagGamepadMappingLT;tagGamepadMappingRT;tagGamepadMappingDpad;tagGamepadMappingLS;tagGamepadMappingLSB;tagGamepadMappingRS;tagGamepadMappingRSB,

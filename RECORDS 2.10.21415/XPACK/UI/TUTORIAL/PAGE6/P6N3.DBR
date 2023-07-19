@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\UITutoriaNugget.tpl,
+FileDescription,Text,
+TextCentering,0,
+TextStyle,Records\UI\FontStyles\TutorialContent.dbr,
+TextTag,xtagTutorialTip06TextB,
+TopSpacing,6,

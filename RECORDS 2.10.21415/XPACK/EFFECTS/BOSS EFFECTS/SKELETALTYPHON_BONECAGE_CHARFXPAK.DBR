@@ -1,0 +1,3 @@
+templateName,database\Templates\CharFxPak.tpl,
+meshEffectNames,Records\XPack\Effects\Boss Effects\SkeletalTyphon_BoneCage_mesh.dbr,
+particleEffectNames,Records\XPack\Effects\Particles\SkillEffects\BossSkillFX\TyphonSkel_Bonecage_SpawnFX.dbr,

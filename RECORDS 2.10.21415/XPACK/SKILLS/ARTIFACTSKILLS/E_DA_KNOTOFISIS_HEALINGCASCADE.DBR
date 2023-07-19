@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Redirects to the Healing Cascade Buff,
+buffSkillName,Records\XPack\Skills\ArtifactSkills\E_DA_KnotOfIsis_HealingCascadeBuff.dbr,
+instantCast,0,

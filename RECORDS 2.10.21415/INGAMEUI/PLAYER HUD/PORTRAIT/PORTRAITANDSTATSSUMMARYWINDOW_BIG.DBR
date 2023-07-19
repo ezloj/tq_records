@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\HudPortraitAndStatsSummary.tpl,
+FileDescription,HudPortrait LOCATION,
+windowDefaultExtentX,373,
+windowDefaultExtentY,79,
+windowDefaultX,0,
+windowDefaultY,0,
+windowScreenAlignmentX,Left,
+windowScreenAlignmentY,Top,

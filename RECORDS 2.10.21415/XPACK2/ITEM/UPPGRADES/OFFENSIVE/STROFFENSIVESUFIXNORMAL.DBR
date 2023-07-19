@@ -1,0 +1,6 @@
+templateName,database\Templates\LootRandomizerTable.tpl,
+Class,LootRandomizerTable,
+randomizerName3,records\item\lootmagicalaffixes\suffix\default\character_speedattack_02.dbr,
+randomizerName4,records\item\lootmagicalaffixes\suffix\default\offensive_stun_02.dbr,
+randomizerWeight3,6,
+randomizerWeight4,3,

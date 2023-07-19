@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\TextNumber.tpl,
+FileDescription,TextNumber,
+textAlignmentX,Center,
+textAlignmentY,Center,
+textBoxX,185,
+textBoxXSize,95,
+textBoxY,501,
+textBoxYSize,16,

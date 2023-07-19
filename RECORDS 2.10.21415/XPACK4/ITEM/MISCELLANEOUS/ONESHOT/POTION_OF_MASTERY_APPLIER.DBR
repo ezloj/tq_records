@@ -1,0 +1,6 @@
+templateName,Database\templates\skill_buffradius.tpl,
+ActorName,Alternative buff: records\xpack4\item\miscellaneous\oneshot\potion_of_mastery_buff.dbr,
+Class,Skill_BuffRadius,
+FileDescription,Currently links to shrine buff which lasts 60s,
+buffSkillName,records\skills\shrines\shrine_skillaugmentbuff01.dbr,
+instantCast,1,

@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\QuestJournalListWindow.tpl,
+height,136,
+positionX,21,
+positionY,83,
+verticalScrollbar,Records\InGameUI\Mini Map\Components\VScrollbar.dbr,
+width,296,

@@ -1,0 +1,6 @@
+templateName,Database\templates\fxpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,1.000000,
+disturbanceRadius,10.000000,
+particleEffectNames,records\xpack2\effects\skilleffects\bossskillfx\porcus_wave_fx.dbr,

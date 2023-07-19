@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,InGameUI\CharacterScreen\Resistances\FireIcon01.tex,
+bitmapPositionX,21,
+bitmapPositionY,192,

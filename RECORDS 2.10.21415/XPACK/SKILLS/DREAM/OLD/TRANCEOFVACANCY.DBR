@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,Records\XPack\Skills\Dream\TranceOfVacancyBuff.dbr,
+instantCast,1,

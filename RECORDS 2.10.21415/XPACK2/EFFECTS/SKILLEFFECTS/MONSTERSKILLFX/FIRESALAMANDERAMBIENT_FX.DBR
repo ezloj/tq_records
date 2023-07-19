@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,this liz is on fire,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack2\effects\particles\skilleffects\monsterskillfx\firesalamanderambient_fx.pfx,
+localOrientFix,0,

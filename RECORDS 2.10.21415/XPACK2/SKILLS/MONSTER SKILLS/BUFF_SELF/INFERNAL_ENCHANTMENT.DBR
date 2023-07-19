@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records\xpack2\skills\monster skills\buff_self\infernal_enchantmentbuff.dbr,
+instantCast,0,

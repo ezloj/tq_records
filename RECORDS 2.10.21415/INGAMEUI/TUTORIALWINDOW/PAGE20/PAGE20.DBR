@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Using Relics,
+NuggetArray,Records\InGameUI\TutorialWindow\Page20\P20N1.dbr;Records\InGameUI\TutorialWindow\Page20\P20N3.dbr;Records\InGameUI\TutorialWindow\Page20\P20N4.dbr;Records\InGameUI\TutorialWindow\Page20\P20N5.dbr,

@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+particleEffectAttachPoints,SpecialHit01,
+particleEffectNames,Records\Effects\Boss Effects\Ormenos_Telekenesis_FX.dbr,
+useTintColor,0,

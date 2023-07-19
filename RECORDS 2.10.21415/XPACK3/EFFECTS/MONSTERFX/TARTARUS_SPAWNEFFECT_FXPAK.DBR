@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,Records/XPack3/Effects/MeshFX/TartarusSpawn_mesh.dbr,
+particleEffectNames,Records/XPack3/Effects/ObjectEffects/tartarus_spawneffect_fx.dbr,

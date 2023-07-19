@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,records\xpack3\skills\allmasteries\earth_quake_debuf.dbr,
+instantCast,0,

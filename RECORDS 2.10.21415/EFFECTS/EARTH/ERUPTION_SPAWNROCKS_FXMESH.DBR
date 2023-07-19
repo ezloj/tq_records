@@ -1,0 +1,8 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,Effects\Earth\ANM\EruptionRocks_Activate.anm,
+disturbanceRadius,2.000000,
+fadeInTime,0.100000,
+fadeOutTime,0.100000,
+meshName,Effects\Earth\EruptionRocks.msh,
+speed,1.000000,

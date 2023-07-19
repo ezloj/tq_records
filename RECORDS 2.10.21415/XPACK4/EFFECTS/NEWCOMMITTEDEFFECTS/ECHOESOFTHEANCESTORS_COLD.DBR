@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,(Vince mod added),
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack3\effects\monsterfx\tartarus_icemeteor_impact.pfx,
+localOrientFix,0,

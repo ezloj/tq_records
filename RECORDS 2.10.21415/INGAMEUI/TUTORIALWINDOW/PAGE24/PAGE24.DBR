@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Dying,
+NuggetArray,Records\InGameUI\TutorialWindow\Page24\P24N1.dbr;Records\InGameUI\TutorialWindow\Page24\P24N2.dbr;Records\InGameUI\TutorialWindow\Page24\P24N3.dbr,

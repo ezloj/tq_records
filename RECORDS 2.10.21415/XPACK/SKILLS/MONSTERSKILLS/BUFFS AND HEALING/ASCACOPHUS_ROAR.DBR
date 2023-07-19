@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,Records\XPack\Skills\MonsterSkills\Buffs and Healing\Ascacophus_RoarBuff.dbr,
+instantCast,0,

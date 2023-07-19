@@ -1,0 +1,3 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+particleEffectNames,Records\Effects\Storm\LStrike_Impact_Hit01.dbr,

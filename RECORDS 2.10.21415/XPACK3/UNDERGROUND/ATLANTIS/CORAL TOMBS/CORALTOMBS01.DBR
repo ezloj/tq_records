@@ -1,0 +1,8 @@
+templateName,database\Templates\Engine\GridSystem.tpl,
+Class,GridSystem,
+cellSpacingX,8.000000,
+cellSpacingY,9.000000,
+cellSpacingZ,8.000000,
+feature,XPack3\underground\atlantis\coral tombs\dng_ct_caveentrance01.msh;XPack3\underground\atlantis\coral tombs\dng_ct_ramp01.msh;XPack3\underground\atlantis\coral tombs\dng_ct_pitcorner01.msh;XPack3\underground\atlantis\coral tombs\dng_ct_pitcorner02.msh;XPack3\underground\atlantis\coral tombs\dng_ct_pithole01.msh;XPack3\underground\atlantis\coral tombs\dng_ct_pitstraight01.msh;XPack3\underground\atlantis\coral tombs\dng_ct_pitwedge01.msh;XPack3\underground\atlantis\coral tombs\dng_ct_pitwedge02.msh,
+minWallOpacity,0.500000,
+wallPieceBaseI,XPack3\underground\atlantis\coral tombs\dng_ct_i01.msh,

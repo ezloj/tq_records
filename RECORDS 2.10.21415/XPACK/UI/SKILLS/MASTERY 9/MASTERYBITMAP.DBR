@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapUIAware,
+bitmapNames,XPack\UI\Skills\DreamPanel01.tex;XPack\UI\Skills\DreamPanel01.tex,
+bitmapPositionsX,718;748,
+bitmapPositionsY,31;31,

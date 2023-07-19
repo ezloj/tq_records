@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\TextBoxMeasureable.tpl,
+fontStyle,Records\UI\FontStyles\LargeButtonText_White.dbr,
+positionX,30,
+positionY,30,
+textBoxHeight,-1,
+textBoxWidth,250,
+textTag,tagRumorDefaultText,

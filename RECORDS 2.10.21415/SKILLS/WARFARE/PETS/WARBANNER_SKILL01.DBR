@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,AE Instant Heal / +% Damage / +300% Life Regen,
+buffSkillName,Records\Skills\Warfare\Pets\WarBanner_Skill01Buff.dbr,

@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_Spine02,
+effectFile,Effects\Nature\343_Plague.pfx,
+emitterType,BoneList,
+localOrientFix,0,

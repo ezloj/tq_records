@@ -1,0 +1,5 @@
+templateName,database\Templates\CharFxPak.tpl,
+colorRed,0.500000,
+particleEffectAttachPoints,Prey_Effect,
+particleEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\darkelf_curse_fx.dbr,
+useTintColor,1,

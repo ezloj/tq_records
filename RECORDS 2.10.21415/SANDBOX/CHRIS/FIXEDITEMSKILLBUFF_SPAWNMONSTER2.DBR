@@ -1,0 +1,7 @@
+templateName,database\Templates\FixedItemSkill_SpawnMonster.tpl,
+Class,FixedItemSkill_SpawnMonster,
+monsterName,Records\Creature\Monster\Skeleton\AM_SoldierAmbush_03.dbr,
+skillActivateFxPak,Records\Effects\Nature\Refresh_FXPak01.dbr,
+skillActivateSound,Records\Sounds\SoundPak\Decorations\FixedItem\WdChestMonsterOpenPak.dbr,
+skillWarningFxPak,Records\Effects\Nature\Refresh_FXPak01.dbr,
+skillWarningSound,Records\Sounds\SoundPak\Decorations\FixedItem\WdChestMonsterOpenPak.dbr,

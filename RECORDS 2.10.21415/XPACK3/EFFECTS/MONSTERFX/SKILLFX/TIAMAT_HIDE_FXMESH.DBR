@@ -1,0 +1,6 @@
+templateName,database\Templates\FxMesh.tpl,
+Class,FxMesh,
+animationName,XPack3\effects\meshfx\anm\tiamat_crater_mesh.anm,
+disturbanceRadius,2.000000,
+meshName,XPack3\effects\meshfx\tiamat_crater_mesh.msh,
+speed,1.000000,

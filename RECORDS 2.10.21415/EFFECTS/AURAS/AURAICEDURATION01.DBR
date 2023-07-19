@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Aura_Fire_Duration01,
+Class,EffectEntity,
+effectFile,Effects\Auras\Aura_Ice_Duration01.pfx,

@@ -1,0 +1,7 @@
+templateName,database\Templates\Engine\GridSystem.tpl,
+Class,GridSystem,
+cellSpacingX,60.000000,
+cellSpacingY,60.000000,
+cellSpacingZ,60.000000,
+feature,Underground\ConstructedTiles\Typhon\Typhon_FeatureTransition01.msh,
+minWallOpacity,0.000000,

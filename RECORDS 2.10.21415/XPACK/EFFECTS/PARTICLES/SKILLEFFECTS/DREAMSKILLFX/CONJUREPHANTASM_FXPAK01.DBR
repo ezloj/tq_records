@@ -1,0 +1,3 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+particleEffectNames,records\xpack\effects\particles\skilleffects\dreamskillfx\conjurephantasm_fx01.dbr,

@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,Records/XPack2/Effects/skilleffects/BossSkillFX/Fafnir_Tailwhack_FX01.dbr,

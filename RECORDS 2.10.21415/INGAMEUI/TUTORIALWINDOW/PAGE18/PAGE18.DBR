@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Weapon Swap,
+NuggetArray,Records\InGameUI\TutorialWindow\Page18\P18N1.dbr;Records\InGameUI\TutorialWindow\Page18\P18N2.dbr;Records\InGameUI\TutorialWindow\Page18\P18N3.dbr;Records\InGameUI\TutorialWindow\Page18\P18N4.dbr;Records\InGameUI\TutorialWindow\Page18\P18N5.dbr,

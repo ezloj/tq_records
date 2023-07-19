@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\MasteryTabSecondary.tpl,
+FileDescription,MasteryTabSecondary,
+bitmapNames,InGameUI\Skills\SkillTab02.tex;InGameUI\controller\Skills\SkillTab02.tex,
+bitmapPositionsX,250;346,
+bitmapPositionsY,26;26,

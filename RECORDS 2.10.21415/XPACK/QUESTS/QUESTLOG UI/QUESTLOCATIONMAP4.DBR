@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\QuestMap.tpl,
+mapBitmap,records\xpack\quests\questlog ui\questlocationmapbitmap4.dbr,
+mapMarkers,Records\XPack\Quests\QuestLog UI\HadesQ1.dbr;Records\XPack\Quests\QuestLog UI\HadesQ2.dbr;Records\XPack\Quests\QuestLog UI\HadesQ3.dbr;Records\XPack\Quests\QuestLog UI\HadesQ4.dbr;Records\XPack\Quests\QuestLog UI\HadesQ5.dbr;Records\XPack\Quests\QuestLog UI\HadesQ6.dbr,
+positionX,15,
+positionY,79,

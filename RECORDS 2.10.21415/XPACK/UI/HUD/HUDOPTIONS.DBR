@@ -1,0 +1,6 @@
+templateName,Database\templates\InGameUI\HudOptions.tpl,
+ActorName,tagVideoOption17=Advanced / tagMenuButton08=Default / tagDefaultMap=Titan Quest,
+FileDescription,All choices to manually select X3 HUD - make code use hudOptionsX3 instead in final,
+hudDescriptions,tagMenuButton08;tagDefaultMap;tagMenuButton08;tagDefaultMap,
+hudOptions,records\xpack\ui\hud\hud_new.dbr;records\xpack\ui\hud\hud.dbr;records\xpack3\ui\hud\hud_x3_new.dbr;records\xpack3\ui\hud\hud_x3.dbr,
+hudOptionsX3,records\xpack\ui\hud\hud_x3_new.dbr;records\xpack\ui\hud\hud_x3.dbr,

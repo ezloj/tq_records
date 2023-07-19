@@ -1,0 +1,7 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+FileDescription,Used in Akhenaten Obelisk of Aten Debuff,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,records\xpack4\effects\akhenaten_childrenofaten.dbr,

@@ -1,0 +1,5 @@
+templateName,Custommaps\Art_TQX3\database\Templates\InGameUI\BitmapUIAware.tpl,
+FileDescription,BitmapSingle,
+bitmapNames,InGameUI\Skills\HiddenPrimaryMastery01.tex;InGameUI\Controller\Skills\HiddenPrimaryMastery01.tex,
+bitmapPositionsX,22;22,
+bitmapPositionsY,23;23,

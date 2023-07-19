@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+ActorName,LightningMastery_StoreStrike,
+Class,Skill_BuffRadius,
+buffSkillName,Records\XPack\Skills\Dream\TranceOfEmpowermentBuff.dbr,
+instantCast,1,

@@ -1,0 +1,7 @@
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,XPack2\effects\particles\skilleffects\monsterskillfx\thrym_aura_frost.pfx,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,XPack2\effects\particles\skilleffects\monsterskillfx\rimtursfrostaura01.pfx,
+localOrientFix,1,

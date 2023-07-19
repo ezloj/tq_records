@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Pick up Relic,
+NuggetArray,Records\InGameUI\TutorialWindow\Page19\P19N1.dbr;Records\InGameUI\TutorialWindow\Page19\P19N2.dbr;Records\InGameUI\TutorialWindow\Page19\P19N3.dbr;Records\InGameUI\TutorialWindow\Page19\P19N4.dbr,

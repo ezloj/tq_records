@@ -1,0 +1,8 @@
+templateName,database\Templates\RolloverLine2.tpl,
+FileDescription,RolloverLine2,
+Line1FormatTag,SimpleStringFormat,
+Line1Style,Records\UI\FontStyles\TextStandard_White_Bold.dbr,
+Line1Tag,tagHUD_RightMouse_R,
+Line2Style,Records\UI\FontStyles\TextStandard_Grey.dbr,
+Line2Tag,tagHUD_RightMouse_R1,
+rolloverStyle,Records\UI\RolloverStyles\Optional.dbr,

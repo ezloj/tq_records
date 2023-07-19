@@ -1,0 +1,8 @@
+templateName,database\Templates\FxPak.tpl,
+ActorName,records\xpack\effects\particles\story\warwagondeathfx.dbr,
+Class,FxPak,
+cameraShakeAmplitude,0.700000,
+cameraShakeDuration,0.500000,
+decal,Records\effects\decals\blast_decal_01.dbr,
+disturbanceRadius,7.000000,
+particleEffectNames,Records/XPack3/Effects/MonsterFX/SkillFX/tiamat_crater_Fx02.dbr,

@@ -1,0 +1,8 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects\earth\343conflagration01.pfx,
+Anchored,0,
+Class,EffectEntity,
+FileDescription,(Vince mod added),
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\bosseffects\yaoguai_flamering.pfx,
+localOrientFix,0,

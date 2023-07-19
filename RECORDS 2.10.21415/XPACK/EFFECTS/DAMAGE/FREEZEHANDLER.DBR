@@ -1,0 +1,7 @@
+templateName,database\Templates\SpecialCharHandler_Freeze.tpl,
+freezeSound,Records\XPack\Sounds\SoundPak\Skills\IceCube_Freeze.dbr,
+handlerType,Freeze,
+iceCubeName,Records\XPack\Effects\Meshes\IceChunk.dbr,
+icyEffectName,XPack\Effects\Textures\Icy.tex,
+shatterSound,Records\XPack\Sounds\SoundPak\Skills\IceCube_Shatter.dbr,
+thawSound,Records\XPack\Sounds\SoundPak\Skills\IceCube_UnFreeze.dbr,

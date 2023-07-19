@@ -1,0 +1,8 @@
+templateName,database\Templates\ControllerNpcHerdAnimal.tpl,
+AllyAttackedAnger,40.000000,
+AngerTolerance,10.000000,
+AttackedAnger,100.000000,
+Class,ControllerNpcHerdAnimal,
+ForgiveRate,50.000000,
+SightAngerRate,20.000000,
+ViewDistance,15.000000,

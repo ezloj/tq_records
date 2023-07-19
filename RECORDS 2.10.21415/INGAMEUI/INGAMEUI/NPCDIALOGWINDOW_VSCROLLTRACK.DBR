@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\ElasticWidget.tpl,
+firstEndTexture,InGameUI\NPCscrollbackdrop01.tex,
+lastEndTexture,InGameUI\NPCscrollbackdrop01.tex,
+middleTexture,InGameUI\NPCscrollbackdrop01.tex,
+positionX,0,
+positionY,0,

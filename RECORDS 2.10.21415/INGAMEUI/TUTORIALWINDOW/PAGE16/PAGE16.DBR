@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Character Window,
+NuggetArray,Records\InGameUI\TutorialWindow\Page16\P16N1.dbr;Records\InGameUI\TutorialWindow\Page16\P16N2.dbr;Records\InGameUI\TutorialWindow\Page16\P16N3.dbr;Records\InGameUI\TutorialWindow\Page16\P16N4.dbr;Records\InGameUI\TutorialWindow\Page16\P16N5.dbr;Records\InGameUI\TutorialWindow\Page16\P16N6.dbr,

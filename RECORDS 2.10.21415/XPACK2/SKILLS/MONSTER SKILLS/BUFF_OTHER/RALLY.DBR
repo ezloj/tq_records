@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,records\xpack2\skills\monster skills\buff_other\rallybuff.dbr,
+instantCast,0,

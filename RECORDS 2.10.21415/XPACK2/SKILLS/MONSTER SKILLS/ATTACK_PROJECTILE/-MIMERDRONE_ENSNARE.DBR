@@ -1,0 +1,6 @@
+templateName,database\Templates\Skill_AttackProjectileDebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,buff version,
+buffSkillName,records\xpack2\skills\monster skills\attack_projectile\mimerdrone_ensnarebuff.dbr,
+projectileLaunchNumber,1,
+projectileNames,records\xpack2\effects\projectiles\mimerdrone_ensnareproj.dbr,

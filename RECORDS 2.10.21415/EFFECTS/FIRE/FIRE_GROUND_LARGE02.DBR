@@ -1,0 +1,6 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Fire_Ground_Large02,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,Effects\Fire\Fire_Ground_Large01.pfx,

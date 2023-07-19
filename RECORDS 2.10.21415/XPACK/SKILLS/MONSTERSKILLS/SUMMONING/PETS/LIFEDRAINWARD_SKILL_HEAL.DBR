@@ -1,0 +1,4 @@
+templateName,Database\templates\skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records\xpack\skills\monsterskills\summoning\pets\lifedrainward_skill_heal_buff.dbr,
+instantCast,0,

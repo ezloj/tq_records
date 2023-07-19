@@ -1,0 +1,6 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\Item\Containers\Orient\ChamberRoomChest_Legendary_02.dbr,
+fixedItemWeight1,90,
+fixedItemWeight2,0,

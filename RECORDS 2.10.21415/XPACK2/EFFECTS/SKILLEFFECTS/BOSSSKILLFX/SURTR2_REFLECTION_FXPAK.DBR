@@ -1,0 +1,5 @@
+templateName,database\Templates\CharFxPak.tpl,
+colorRed,1.000000,
+particleEffectAttachPoints,Target;Head;LeftHand;RightHand,
+particleEffectNames,records\xpack2\effects\skilleffects\bossskillfx\surtr2_reflection_fx.dbr,
+useTintColor,1,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Aura - +5% Attack Speed per level / +50% Total Resist,
+buffSkillName,Records\Skills\Monster Skills\BuffSelf_FrenzyAuraBuff.dbr,

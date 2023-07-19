@@ -1,0 +1,5 @@
+templateName,database\Templates\InGameUI\QuestMap.tpl,
+mapBitmap,Records\InGameUI\Player Quests\QuestLocationMapBitmap2.dbr,
+mapMarkers,Records\InGameUI\Player Quests\Map Markers\EgyptQ8.dbr;Records\InGameUI\Player Quests\Map Markers\EgyptQ9.dbr;Records\InGameUI\Player Quests\Map Markers\EgyptQ10.dbr;Records\InGameUI\Player Quests\Map Markers\EgyptQ11.dbr,
+positionX,15,
+positionY,79,

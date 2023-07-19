@@ -1,0 +1,3 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+activateSound,Records\Sounds\SoundPak\MonstersOrient\TyphonConsumeStatuePowerPak.dbr,

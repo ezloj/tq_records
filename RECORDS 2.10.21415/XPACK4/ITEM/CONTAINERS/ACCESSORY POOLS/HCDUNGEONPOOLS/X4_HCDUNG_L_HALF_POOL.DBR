@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records\XPack4\Item\Containers\HCDungeon\x4_HCDung_L_Half_Chest.dbr,
+fixedItemWeight1,100,

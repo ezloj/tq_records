@@ -1,0 +1,6 @@
+templateName,database\Templates\InGameUI\ScrollableWindow.tpl,
+FileDescription,Set Max Height of Window Here,
+height,233,
+positionX,0,
+positionY,25,
+width,290,

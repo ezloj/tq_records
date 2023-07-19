@@ -1,0 +1,4 @@
+templateName,database\Templates\InGameUI\UITutorialPageInstance.tpl,
+FadeSeconds,60,
+FileDescription,Caravans,
+NuggetArray,records\xpack\ui\tutorial\page1\p1n1.dbr;records\xpack\ui\tutorial\page1\p1n2.dbr;records\xpack\ui\tutorial\page1\p1n3.dbr,

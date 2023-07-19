@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,Records\XPack\Skills\Scroll Skills\Pets\03X_MaddenedGod_AuraBuff.dbr,
+instantCast,1,

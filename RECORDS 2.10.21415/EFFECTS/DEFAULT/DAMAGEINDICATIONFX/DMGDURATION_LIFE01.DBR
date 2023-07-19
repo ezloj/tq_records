@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,LE Life damage over time,
+particleEffectAttachPoints,HeadEffect,
+particleEffectNames,records\effects\projectiles\343_stafflife_med_flight_fx.dbr,

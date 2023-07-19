@@ -1,0 +1,7 @@
+templateName,Database\templates\fxpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+meshEffectNames,records\xpack2\effects\skilleffects\bossskillfx\nidhoggrdeath_fxmesh.dbr,
+particleEffectNames,records\xpack\effects\particles\skilleffects\bossskillfx\typhonskel_spiritthrowerfx.dbr,

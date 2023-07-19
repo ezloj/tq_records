@@ -1,0 +1,4 @@
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,
+Class,EffectEntity,
+effectFile,Effects\Default\Buff05.pfx,

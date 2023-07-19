@@ -1,0 +1,4 @@
+templateName,database\Templates\ProxyAccessoryPool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,Records\XPack3\Items\Containers\Boss Containers\bosschest12_Omega_02.dbr,

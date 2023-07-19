@@ -1,0 +1,7 @@
+templateName,Database\templates\fxpak.tpl,
+Class,FxPak,
+activateSound,records\sounds\soundpak\monstersgreek\taloschainswingpak.dbr,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,records\xpack2\effects\skilleffects\monsterskillfx\fireimp_shacklestart_fx.dbr,

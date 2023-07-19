@@ -1,0 +1,7 @@
+templateName,database\Templates\Engine\GridSystem.tpl,
+Class,GridSystem,
+cellSpacingX,8.000000,
+cellSpacingY,8.000000,
+cellSpacingZ,8.000000,
+feature,XPack\SceneryUnderground\WitchesCave\fea_wc_templeint01.msh;XPack\SceneryUnderground\WitchesCave\fea_wc_templeint02.msh;XPack\SceneryUnderground\WitchesCave\fea_wc_bossroom01.msh,
+minWallOpacity,0.000000,

@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_BuffOther.tpl,
+Class,Skill_BuffOther,
+FileDescription,AE Instant Heal / +% Damage / +300% Life Regen,
+buffSkillName,Records\Skills\Nature\NaturesBlessing.dbr,

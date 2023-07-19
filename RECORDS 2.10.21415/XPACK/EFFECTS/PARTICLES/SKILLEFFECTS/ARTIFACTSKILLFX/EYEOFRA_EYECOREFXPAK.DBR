@@ -1,0 +1,6 @@
+templateName,database\Templates\FXpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,records\xpack\effects\particles\skilleffects\artifactskillfx\eyeofra_eyecorefx.dbr,

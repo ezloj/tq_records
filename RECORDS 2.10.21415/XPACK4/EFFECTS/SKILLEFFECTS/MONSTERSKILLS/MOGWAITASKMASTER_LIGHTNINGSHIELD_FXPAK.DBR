@@ -1,0 +1,4 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,Used in FireElemental_FireRush,
+activeSound,records\sounds\soundpak\decorations\firelooplgpak.dbr,
+particleEffectNames,records\xpack4\effects\skilleffects\monsterskills\mogwaitaksmaster_lightingshield.dbr,

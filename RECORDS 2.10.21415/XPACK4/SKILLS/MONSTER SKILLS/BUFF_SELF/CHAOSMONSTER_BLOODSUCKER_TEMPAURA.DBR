@@ -1,0 +1,5 @@
+templateName,Database\templates\skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,15-30 lifesteal / lvl,
+buffSkillName,records\XPack4\Skills\Monster Skills\Buff_Self\ChaosMonster_Bloodsucker_TempAura_buff.dbr,
+instantCast,0,

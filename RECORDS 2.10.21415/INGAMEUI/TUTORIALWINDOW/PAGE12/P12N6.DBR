@@ -1,0 +1,7 @@
+templateName,database\Templates\InGameUI\UITutoriaNuggetPlus.tpl,
+FileDescription,Caption,
+TextCentering,1,
+TextStyle,Records\UI\FontStyles\TutorialCaptions.dbr,
+TextTag,tagTutorialTip12CaptionA,
+TopSpacing,5,
+keyOperation,MapWindow,

@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
+ActorName,LightningMastery_StoreStrike,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,Records\XPack\Skills\Dream\TranceOfEmpathyBuff.dbr,
+instantCast,1,

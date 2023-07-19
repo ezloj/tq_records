@@ -1,0 +1,8 @@
+templateName,database\Templates\CharFxPak.tpl,
+FileDescription,Absolute Cold Damage,
+colorBlue,200.000000,
+colorGreen,150.000000,
+colorRed,100.000000,
+particleEffectAttachPoints,Bone_Spine02;Bone_R_Shoulder;Bone_L_Shoulder,
+particleEffectNames,Records\Effects\Projectiles\343_StaffFire_Low_Impact_FX.dbr,
+startSound,Records\Sounds\SoundPak\Spells\Storm\ColdBurstHitPak.dbr,

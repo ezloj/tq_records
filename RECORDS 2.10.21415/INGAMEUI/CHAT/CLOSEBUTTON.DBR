@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\ButtonStatic.tpl,
+FileDescription,ButtonStatic,
+bitmapNameDown,InGameUI\WindowBtnDown01.tex,
+bitmapNameInFocus,InGameUI\WindowBtnOver01.tex,
+bitmapNameUp,InGameUI\WindowBtnUp01.tex,
+bitmapPositionX,0,
+bitmapPositionY,0,
+soundNameDown,Records\Sounds\SoundPak\UI\GenericClickSmallPak.dbr,

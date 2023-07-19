@@ -1,0 +1,3 @@
+templateName,database\Templates\NpcConversationPak.tpl,
+ActorName,E3GreeceConversation01,
+allConversations,Records\Dialog\Greece\E3Demo\TrafficNode\E3GreeceConversation01.dbr;Records\Dialog\Greece\E3Demo\TrafficNode\E3GreeceConversation02.dbr;Records\Dialog\Greece\E3Demo\TrafficNode\E3GreeceConversation03.dbr,

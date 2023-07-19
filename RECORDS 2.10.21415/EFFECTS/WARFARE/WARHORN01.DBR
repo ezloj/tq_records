@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Class,FxPak,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,1.000000,
+particleEffectNames,Records\Effects\Warfare\WarHorn_FX01.dbr,

@@ -1,0 +1,5 @@
+templateName,database\Templates\QuestLocation.tpl,
+Class,QuestLocation,
+actorHeight,0.000000,
+actorRadius,0.000000,
+scale,1.000000,

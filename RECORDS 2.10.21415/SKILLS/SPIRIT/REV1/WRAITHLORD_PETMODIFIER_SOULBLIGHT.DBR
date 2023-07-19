@@ -1,0 +1,3 @@
+templateName,database\Templates\SkillSecondary_PetModifier.tpl,
+Class,SkillSecondary_PetModifier,
+petSkillName,Records\Skills\Spirit\WraithLord_PetSkill_SoulBlight.dbr,

@@ -1,0 +1,5 @@
+templateName,database\Templates\Skill_BuffOther.tpl,
+Class,Skill_BuffOther,
+FileDescription,Checked by Darko,
+buffSkillName,records\XPack4\Skills\Monster Skills\Dev Skills\SobekGuard_ExtendOneckDebuff.dbr,
+targetCaster,0,

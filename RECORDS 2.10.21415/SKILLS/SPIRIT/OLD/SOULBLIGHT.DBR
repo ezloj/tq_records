@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_AttackBuffRadius.tpl,
+ActorName,DefensiveMastery_ArmorTraining,
+Class,Skill_AttackBuffRadius,
+buffSkillName,Records\Skills\Spirit\SoulBlightBuff.dbr,

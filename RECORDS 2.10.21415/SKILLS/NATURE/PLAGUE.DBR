@@ -1,0 +1,4 @@
+templateName,database\Templates\Skill_AttackBuff.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_AttackBuff,
+buffSkillName,Records\Skills\Nature\PlagueBuff.dbr,

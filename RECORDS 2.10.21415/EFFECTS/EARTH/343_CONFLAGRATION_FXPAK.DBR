@@ -1,0 +1,6 @@
+templateName,database\Templates\FxPak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.400000,
+cameraShakeDuration,0.300000,
+disturbanceRadius,8.000000,
+particleEffectNames,Records\Effects\Earth\Conflagration_FX01.dbr,
